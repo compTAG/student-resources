@@ -41,6 +41,7 @@ a template in the poster folder.
 
 ## Who to Contact with Questions and Suggestions ##
 
+- [Brendan](https://brendanmumey.wordpress.com/)
 - [Brittany](http://www.fasy.us)
 - [Carola](http://www.cs.tulane.edu/~carola/)
 - [David](http://www.millman.us)
