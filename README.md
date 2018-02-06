@@ -22,6 +22,12 @@ For resources on git, take a look at:
 Academic writing is mastered in one way: practice and learn from your mistakes.  The following resources we find helpful:
 
 - [Ott's 10 Tips](http://www.ms.uky.edu/~kott/proof_help.pdf)
+- [Figure
+  Captions](http://www.biosciencewriters.com/Tips-for-Writing-Outstanding-Scientific-Figure-Legends.aspx):
+  This website is a great resource for how to write a figure caption. If you
+  want a concrete example, take a look at [this
+  paper](http://pub.ist.ac.at/~edels/Papers/2012-P-11-PHTheoryPractice.pdf) as
+  well.
 
 ## Posters ##
 
@@ -35,5 +41,6 @@ a template in the poster folder.
 
 ## Who to Contact with Questions and Suggestions ##
 
-- [brittany](http://www.fasy.us)
-- [david](http://www.millman.us)
+- [Brittany](http://www.fasy.us)
+- [Carola](http://www.cs.tulane.edu/~carola/)
+- [David](http://www.millman.us)
