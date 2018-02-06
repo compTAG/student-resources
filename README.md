@@ -17,6 +17,12 @@ For resources on git, take a look at:
   Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Forking in Git](https://help.github.com/articles/fork-a-repo/)
 
+## Academic Writing ##
+
+Academic writing is mastered in one way: practice and learn from your mistakes.  The following resources we find helpful:
+
+- [Ott's 10 Tips](http://www.ms.uky.edu/~kott/proof_help.pdf)
+
 ## Posters ##
 
 Presenting posters at academic conferences is a great way to practice talking
