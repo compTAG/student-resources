@@ -28,6 +28,8 @@ Academic writing is mastered in one way: practice and learn from your mistakes. 
   want a concrete example, take a look at [this
   paper](http://pub.ist.ac.at/~edels/Papers/2012-P-11-PHTheoryPractice.pdf) as
   well.
+- [Communicating Statistical Results](http://www.stat.colostate.edu/~jah/teach/st540/write.pdf): 
+  Written for statisticians, but applicable for all scientific articles.
 
 ## Posters ##
 
