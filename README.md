@@ -45,3 +45,4 @@ a template in the poster folder.
 - [Brittany](http://www.fasy.us)
 - [Carola](http://www.cs.tulane.edu/~carola/)
 - [David](http://www.millman.us)
+- [Stacey](http://www.math.montana.edu/shancock/)
