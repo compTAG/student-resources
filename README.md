@@ -1,7 +1,7 @@
 # README #
 
-In this repo, we provide resources for new students in theoretical computer
-science / applied mathematics.  These are the resources that we have found
+In this repo, we provide resources for new students in cs, math,
+and stat.  These are the resources that we have found
 helpful for our students, and we hope will help you as well.
 
 ## Git ##
@@ -31,7 +31,7 @@ Academic writing is mastered in one way: practice and learn from your mistakes. 
 - [Communicating Statistical Results](http://www.stat.colostate.edu/~jah/teach/st540/write.pdf): 
   Written for statisticians, but applicable for all scientific articles.
 
-## Posters ##
+## Posters and Figures ##
 
 Presenting posters at academic conferences is a great way to practice talking
 about your research.  We recommend using Inkscape to create posters, and provide
@@ -40,6 +40,7 @@ a template in the poster folder.
 - [Poster Tips](https://www.makesigns.com/tutorials/poster-design-layout.aspx):
   a great resource for knowing what font size to use, etc.
 - [Inkscape Soup Can Tutorial](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/SoupCan.html): this tutorial gives you a jump start on using Inkscape (basically, the free version of illustrator).  Some keyboard shortcuts are given.
+- [Advanced Inkscape](https://inkscape.org/en/doc/tutorials/advanced/tutorial-advanced.en.html)
 
 ## Who to Contact with Questions and Suggestions ##
 
