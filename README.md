@@ -17,6 +17,14 @@ For resources on git, take a look at:
   Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Forking in Git](https://help.github.com/articles/fork-a-repo/)
 
+When working in a group, commit messages are very important.  Your collaborators
+(and even your future self) will be very thankful for well crafted messages.
+For more on how to write good commit messages, see blogs from:
+
+- [Erlang project](https://github.com/erlang/otp/wiki/writing-good-commit-messages)
+- [Tim Pope](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+- [Chris Beams](https://chris.beams.io/posts/git-commit/)
+
 ## Academic Writing ##
 
 Academic writing is mastered in one way: practice and learn from your mistakes.  The following resources we find helpful:
