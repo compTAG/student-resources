@@ -8,7 +8,7 @@ helpful for our students, and we hope will help you as well.
 
 To clone this repo:
 ```
-$ git clone https://brittany@bitbucket.org/tda-at-msu/student-templates.git
+$ git clone https://<username>@bitbucket.org/tda-at-msu/student-templates.git
 ```
 
 For resources on git, take a look at:
