@@ -50,6 +50,7 @@ a template in the poster folder.
   a great resource for knowing what font size to use, etc.
 - [Inkscape Soup Can Tutorial](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/SoupCan.html): this tutorial gives you a jump start on using Inkscape (basically, the free version of illustrator).  Some keyboard shortcuts are given.
 - [Advanced Inkscape](https://inkscape.org/en/doc/tutorials/advanced/tutorial-advanced.en.html)
+- [textext](https://pav.iki.fi/software/textext/) - for including LaTex in Inkscape
 
 ## Who to Contact with Questions and Suggestions ##
 
