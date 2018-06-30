@@ -52,6 +52,17 @@ a template in the poster folder.
 - [Advanced Inkscape](https://inkscape.org/en/doc/tutorials/advanced/tutorial-advanced.en.html)
 - [textext](https://pav.iki.fi/software/textext/) - for including LaTex in Inkscape
 
+## Introductory Readings for Topics ##
+
+### Persistent Homology
+- [Edelsbrunner/Harer Book](https://bookstore.ams.org/mbk-69/): Covers
+  persistent homology, comparison of diagrams, and more.
+- [Persistent Homology: a Survey - HE,
+  JH](https://www.researchgate.net/publication/228629885_Persistent_homology-a_survey):
+  A concise survey of persistent homology.
+- [What is Persistent Homology -
+  SW](http://www.ams.org/notices/201101/rtx110100036p.pdf): AMS survey article.
+
 ## Who to Contact with Questions and Suggestions ##
 
 - [Brendan](https://brendanmumey.wordpress.com/)
