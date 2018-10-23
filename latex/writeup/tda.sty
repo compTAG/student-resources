@@ -1,0 +1,50 @@
+\NeedsTeXFormat{LaTeX2e}[1994/06/01]
+\ProvidesPackage{tda}[2018/02/26 TDA Package]
+
+\usepackage{amsfonts} % cool things like mathbb
+\usepackage{comment} % enables the use of multi-line comments (\ifx \fi)
+% \usepackage{fullpage} % changes the margin
+\usepackage{graphicx} % add images
+\usepackage{listings} % put code in the document
+\usepackage{url} % for addresses
+\usepackage{siunitx} % using \deg{} command
+\usepackage{cite} % to sort and compress citations
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{amsthm}
+\usepackage{graphicx,amssymb,amsmath}
+\usepackage{xspace}
+\usepackage[margin=1in]{geometry}
+
+\graphicspath{{./}{graphics/}}
+
+\usepackage{color}
+
+\newcommand{\payAttention}[3]{{\color{#1}[[\textbf{#2: }#3]]}}
+\newcommand{\todo}[1]{\payAttention{red}{TODO}{#1}}
+\newcommand{\xSays}[3]{\payAttention{#1}{#2 Says}{#3}}
+\newcommand{\brittany}[1]{\xSays{blue}{Brittany}{#1}}
+\newcommand{\dave}[1]{\xSays{magenta}{Dave}{#1}}
+
+\newtheorem{lemma}{Lemma}
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+
+\newcommand{\corref}[1]{Corollary~\ref{cor:#1}}
+\newcommand{\remref}[1]{Remark~\ref{rem:#1}}
+\newcommand{\defref}[1]{Definition~\ref{def:#1}}
+\newcommand{\exref}[1]{Example~\ref{ex:#1}}
+\newcommand{\lemref}[1]{Lemma~\ref{lem:#1}}
+\newcommand{\probref}[1]{Problem~\ref{prob:#1}}
+\newcommand{\propref}[1]{Proposition~\ref{prop:#1}}
+\newcommand{\thmref}[1]{Theorem~\ref{thm:#1}}
+\newcommand{\figref}[1]{Figure~\ref{fig:#1}}
+\newcommand{\secref}[1]{Section~\ref{sec:#1}}
+\newcommand{\appendref}[1]{Appendix~\ref{append:#1}}
+
+\newcommand{\etal}{\emph{et al.\xspace}}
