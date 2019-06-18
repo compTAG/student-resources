@@ -1,6 +1,6 @@
 # NSF Pre-Report
 
-* Grant: [TODO: Grant Name(s)] 
+* Grant: [TODO: Grant Name(s) or abbreviations] 
 * Student: NAME
 * Reporting Period: 08/01/18 through 08/01/19
 
