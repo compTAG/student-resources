@@ -41,13 +41,14 @@ prove-a-thons, which is a common time to work on research problems.
     * Network Comparison: https://www.youtube.com/watch?v=LuTHBkyLJ1k
 
 4. Code: Papers (even theoretical ones) typically have an experimental section,
-   which means that you should be comfortable running some code!  TODO-give a
-   hello-world of persistence or CGAL perhaps? 
+   which means that you should be comfortable running some code!  Dionysus is a python 
+   package that will be helpful in finding persistence diagrams and using Rips complex. 
+   Here's a tutorial of the library features: https://www.mrzv.org/software/dionysus/tutorial.html
 
 5. TeamPapers: Our team has authored several papers that we encourage you to read in order to learn more about our work: 
-    * TODO: paper-1
-    * TODO: paper-2
-    * TODO: paper-3
+    * Shape Reconstruction: https://arxiv.org/abs/1805.10716
+    * Analyzing Data on Road Networks: http://www.cs.tulane.edu/~carola/research/roadNetworkData.html
+    * R Package TDA: https://cran.r-project.org/web/packages/TDA/index.html
 
 
 
