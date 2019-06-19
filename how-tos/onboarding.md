@@ -36,6 +36,9 @@ prove-a-thons, which is a common time to work on research problems.
    for Topics sections of
    [README](https://github.com/compTAG/student-resources#introductory-readings-for-topics)
    page.
+    * Persistent Homology: https://www.youtube.com/watch?v=h0bnG1Wavag&amp;t=16s 
+    * Topological Data Analysis: https://www.youtube.com/watch?v=XOZN3XZdoO0
+    * Network Comparison: https://www.youtube.com/watch?v=LuTHBkyLJ1k
 
 4. Code: Papers (even theoretical ones) typically have an experimental section,
    which means that you should be comfortable running some code!  TODO-give a
