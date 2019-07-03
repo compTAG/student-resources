@@ -65,6 +65,12 @@ a template in the poster folder.
 - [What is Persistent Homology -
   SW](http://www.ams.org/notices/201101/rtx110100036p.pdf): AMS survey article.
 
+### Computational Geometry
+- [Dutch/Marks Book](https://www.springer.com/us/book/9783540779735)
+- [David Mount's lecture notes](http://www.cs.umd.edu/class/fall2014/cmsc754/Lects/cmsc754-fall14-lects.pdf)
+- [Devadoss and O'Rourke](https://press.princeton.edu/titles/9489.html)
+- [Computational Geometry in C](https://cs.smith.edu/~jorourke/books/compgeom.html)
+
 ## Who to Contact with Questions and Suggestions ##
 
 - [Brendan](https://brendanmumey.wordpress.com/)
