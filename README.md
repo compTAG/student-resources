@@ -39,6 +39,8 @@ Academic writing is mastered in one way: practice and learn from your mistakes. 
 - [Communicating Statistical Results](http://www.stat.colostate.edu/~jah/teach/st540/write.pdf):
   Written for statisticians, but applicable for all scientific articles.
 - [Bibtex Cheatsheet](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management)
+- [Journal Abbreviations](https://mathscinet.ams.org/msnhtml/serials.pdf) lists
+  standard abbreviations for most journals.
 
 ## Posters and Figures ##
 
