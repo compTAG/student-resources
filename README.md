@@ -41,6 +41,8 @@ Academic writing is mastered in one way: practice and learn from your mistakes. 
 - [Bibtex Cheatsheet](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management)
 - [Journal Abbreviations](https://mathscinet.ams.org/msnhtml/serials.pdf) lists
   standard abbreviations for most journals.
+- [That vs. Which](https://www.quickanddirtytips.com/education/grammar/which-versus-that-0) explains when to use the word 'that' versus 'which', and how to properly punctuate both.
+
 
 ## Posters and Figures ##
 
