@@ -9,10 +9,10 @@ and become prepared to begin making contributions!
 
 ### Meeting Location
 We currently meet at Faculty Court #23 (FC23). To obtain a
-key for FC23, contact Suzie Hockel or Brittany Fasy. FC23 is located at the
-center of the red target in the map at the bottom of this page.  (At this time,
+key for FC23, contact Suzie Hockel or Brittany Fasy.  (At this time,
 keys are not given to undergraduate students.  However, undergraduates are
-welcome to work at FC23).
+welcome to work at FC23).  Snacks and sodas are available on an honor system
+cash payment in the kitchen.
 
 ### Weekly Meetings
 See slack for the updated meeitng times.  We have a one hour research seminar
@@ -27,7 +27,10 @@ prove-a-thons, which is a common time to work on research problems.
    encourage that you install Slack on your smartphone if possible. To be added
    to our Slack group, use the following link:
    [Slack-link](https://join.slack.com/t/tda-at-msu/shared_invite/enQtMjk4NDIwMjY2MDY2LTNhYTYwOWRjNWM3ZGU2MzdlODFkOTA5MzNiNTFmMDQyZTc2NzkxNGNjMjlmZGFjZGZlNmEyYTE2MjBhMGFhMjE).
-
+    * Post a message to #general to introduce yourself to the group!
+    * Click on the word `Channels` and join any conversations that seem
+      interesting to you.
+    
 2. GIT: if you are not yet familiar with git (or need a refresher), please take
    the GIT Udacity course:
     [Git Udacity Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
@@ -35,20 +38,18 @@ prove-a-thons, which is a common time to work on research problems.
 3. Reading: To get started in the filed, please see the Introductory Readings
    for Topics sections of
    [README](https://github.com/compTAG/student-resources#introductory-readings-for-topics)
-   page.
+   page.  For a crash course on some specific topics, watch these videos:
     * Persistent Homology: https://www.youtube.com/watch?v=h0bnG1Wavag&amp;t=16s 
     * Topological Data Analysis: https://www.youtube.com/watch?v=XOZN3XZdoO0
-    * Network Comparison: https://www.youtube.com/watch?v=LuTHBkyLJ1k
+    * Computational Geometry: https://www.youtube.com/watch?v=LuTHBkyLJ1k
 
 4. Code: Papers (even theoretical ones) typically have an experimental section,
-   which means that you should be comfortable running some code!  TODO-give a
-   hello-world of persistence or CGAL perhaps? 
+   which means that you should be comfortable running some code!  
+   * Compute persistent homology of a triangle using [Dionysus](https://www.mrzv.org/software/dionysus/)
+   * Compute a Delaunay triangulation in  [CGAL](https://www.cgal.org/), and
+     output the triangulation data structure.
 
 5. TeamPapers: Our team has authored several papers that we encourage you to read in order to learn more about our work: 
     * TODO: paper-1
     * TODO: paper-2
     * TODO: paper-3
-
-
-
-![FC23.JPG](https://bitbucket.org/repo/KExLyg/images/1209928963-FC23.JPG)
