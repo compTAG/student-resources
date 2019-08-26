@@ -44,12 +44,14 @@ prove-a-thons, which is a common time to work on research problems.
     * Computational Geometry: https://www.youtube.com/watch?v=LuTHBkyLJ1k
 
 4. Code: Papers (even theoretical ones) typically have an experimental section,
-   which means that you should be comfortable running some code!  
-   * Compute persistent homology of a triangle using [Dionysus](https://www.mrzv.org/software/dionysus/)
-   * Compute a Delaunay triangulation in  [CGAL](https://www.cgal.org/), and
+   which means that you should be comfortable running some code!  To get started, we have two tasks:
+    * Compute persistent homology of a triangle using [Dionysus](https://www.mrzv.org/software/dionysus/)
+    * Compute a Delaunay triangulation in  [CGAL](https://www.cgal.org/), and
      output the triangulation data structure.
 
 5. TeamPapers: Our team has authored several papers that we encourage you to read in order to learn more about our work: 
-    * TODO: paper-1
-    * TODO: paper-2
-    * TODO: paper-3
+    * Searching in the space of persistence diagrams: https://arxiv.org/abs/1812.11257  
+    * PHT-based reconstruction: https://arxiv.org/abs/1812.11257 and https://arxiv.org/abs/1812.11257  
+    * Fast range searching with Delaunay triangulations (by Binhai): https://link.springer.com/article/10.1023/A:1009857410665
+    * On the Bootstrap for Persistence Diagrams and Landscapes (by Brittany and collabs): https://arxiv.org/abs/1311.0376
+    * Parallel Geometric Algorithms for Multi-core Computers (by Dave and collabs): Parallel geometric algorithms for multi-core computers
