@@ -51,7 +51,7 @@ prove-a-thons, which is a common time to work on research problems.
 
 5. TeamPapers: Our team has authored several papers that we encourage you to read in order to learn more about our work:
     * Searching in the space of persistence diagrams: https://arxiv.org/abs/1812.11257
-    * PHT-based reconstruction: https://arxiv.org/abs/1812.11257 and https://arxiv.org/abs/1812.11257
+    * PHT-based reconstruction: https://arxiv.org/abs/1805.10716 and https://arxiv.org/abs/1811.11337
     * Fast randomized point location without preprocessing in two-and three-dimensional Delaunay triangulations (by Binhai and collabs): https://www.sciencedirect.com/science/article/pii/S0925772198000352
     * On the Bootstrap for Persistence Diagrams and Landscapes (by Brittany and collabs): https://arxiv.org/abs/1311.0376
     * Parallel Geometric Algorithms for Multi-core Computers (by Dave and collabs): https://www.sciencedirect.com/science/article/pii/S0925772110000362
