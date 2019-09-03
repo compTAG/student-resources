@@ -30,7 +30,7 @@ prove-a-thons, which is a common time to work on research problems.
     * Post a message to #general to introduce yourself to the group!
     * Click on the word `Channels` and join any conversations that seem
       interesting to you.
-    
+
 2. GIT: if you are not yet familiar with git (or need a refresher), please take
    the GIT Udacity course:
     [Git Udacity Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
@@ -39,7 +39,7 @@ prove-a-thons, which is a common time to work on research problems.
    for Topics sections of
    [README](https://github.com/compTAG/student-resources#introductory-readings-for-topics)
    page.  For a crash course on some specific topics, watch these videos:
-    * Persistent Homology: https://www.youtube.com/watch?v=h0bnG1Wavag&amp;t=16s 
+    * Persistent Homology: https://www.youtube.com/watch?v=h0bnG1Wavag&amp;t=16s
     * Topological Data Analysis: https://www.youtube.com/watch?v=XOZN3XZdoO0
     * Computational Geometry: https://www.youtube.com/watch?v=LuTHBkyLJ1k
 
@@ -49,9 +49,9 @@ prove-a-thons, which is a common time to work on research problems.
     * Compute a Delaunay triangulation in  [CGAL](https://www.cgal.org/), and
      output the triangulation data structure.
 
-5. TeamPapers: Our team has authored several papers that we encourage you to read in order to learn more about our work: 
-    * Searching in the space of persistence diagrams: https://arxiv.org/abs/1812.11257  
-    * PHT-based reconstruction: https://arxiv.org/abs/1812.11257 and https://arxiv.org/abs/1812.11257  
-    * Fast range searching with Delaunay triangulations (by Binhai): https://link.springer.com/article/10.1023/A:1009857410665
+5. TeamPapers: Our team has authored several papers that we encourage you to read in order to learn more about our work:
+    * Searching in the space of persistence diagrams: https://arxiv.org/abs/1812.11257
+    * PHT-based reconstruction: https://arxiv.org/abs/1805.10716 and https://arxiv.org/abs/1811.11337
+    * Fast randomized point location without preprocessing in two-and three-dimensional Delaunay triangulations (by Binhai and collabs): https://www.sciencedirect.com/science/article/pii/S0925772198000352
     * On the Bootstrap for Persistence Diagrams and Landscapes (by Brittany and collabs): https://arxiv.org/abs/1311.0376
-    * Parallel Geometric Algorithms for Multi-core Computers (by Dave and collabs): Parallel geometric algorithms for multi-core computers
+    * Parallel Geometric Algorithms for Multi-core Computers (by Dave and collabs): https://www.sciencedirect.com/science/article/pii/S0925772110000362
