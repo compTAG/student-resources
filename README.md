@@ -39,6 +39,10 @@ Academic writing is mastered in one way: practice and learn from your mistakes. 
 - [Communicating Statistical Results](http://www.stat.colostate.edu/~jah/teach/st540/write.pdf):
   Written for statisticians, but applicable for all scientific articles.
 - [Bibtex Cheatsheet](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management)
+- Pseudocode resources:
+  [Pseudocode
+  1](https://onlinelibrary.wiley.com/doi/pdf/10.1002/0470029757.app1)
+  [Pseudocode 2](https://www.cs.oberlin.edu/~asharp/cs383/2007fa/handouts/pseudocode.pdf)
 
 ## Posters and Figures ##
 
