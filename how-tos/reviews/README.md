@@ -11,4 +11,13 @@ them helpful as well:
 * [Hints for Referees](./hints_for_referees.pdf) by Donald Knuth
 
 One additional piece of advice to always keep in mind with your reviews though
-is your feedback should never be personal and always be constructive.
+is your feedback should never be personal and should always be constructive.
+
+## Common Feedback on Reviews:
+
+Here is a list of feedback that addresses common issues with reviews:
+
+* The review should address the _submission_ not the _person_.  As such, in your
+  revew, please write about the paper / methods / etc, but not about the
+  authors.  (e.g., instead of `the authors fail to do X` instead write
+  `Including X in the paper would have strengthened the paper`

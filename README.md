@@ -43,6 +43,10 @@ Academic writing is mastered in one way: practice and learn from your mistakes. 
   [Pseudocode
   1](https://onlinelibrary.wiley.com/doi/pdf/10.1002/0470029757.app1)
   [Pseudocode 2](https://www.cs.oberlin.edu/~asharp/cs383/2007fa/handouts/pseudocode.pdf)
+- [Journal Abbreviations](https://mathscinet.ams.org/msnhtml/serials.pdf) lists
+  standard abbreviations for most journals.
+- [That vs. Which](https://www.quickanddirtytips.com/education/grammar/which-versus-that-0) explains when to use the word 'that' versus 'which', and how to properly punctuate both.
+
 
 ## Posters and Figures ##
 
@@ -66,6 +70,12 @@ a template in the poster folder.
   A concise survey of persistent homology.
 - [What is Persistent Homology -
   SW](http://www.ams.org/notices/201101/rtx110100036p.pdf): AMS survey article.
+
+### Computational Geometry
+- [Dutch/Marks Book](https://www.springer.com/us/book/9783540779735)
+- [David Mount's lecture notes](http://www.cs.umd.edu/class/fall2014/cmsc754/Lects/cmsc754-fall14-lects.pdf)
+- [Devadoss and O'Rourke](https://press.princeton.edu/titles/9489.html)
+- [Computational Geometry in C](https://cs.smith.edu/~jorourke/books/compgeom.html)
 
 ## Who to Contact with Questions and Suggestions ##
 
