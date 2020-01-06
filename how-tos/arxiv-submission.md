@@ -23,7 +23,7 @@ proper format for the journal or conference. Delete the style file used for the
 journal of the paper, as well as all commands that specifically use that style
 file. These commands are likely used in the main tex document of the paper.
 
-2. Change the document class in the main tex file to article.
+2. Change the document class in the main tex file to "article".
 
 3. Compile the document to see what it now looks like and if there are any
 errors in compiling. Fix any errors that come up.
