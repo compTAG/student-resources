@@ -8,7 +8,6 @@ the things that they should keep in mind:
 
 - Set-up a repo: if a repo does not already exist, be sure to start one.  Please
   add all co-authors to this repo.
-- 
 
 ## Submission
 
@@ -21,7 +20,29 @@ the things that they should keep in mind:
   Montana goes down (or you fall asleep while typing the last sentence).  To do
   this, please temporarily hide all of the comments in the document (via the .sty file ...
   do not comment them out).
+- As the submission gets closer, you might want to push more polished versions
+  as well.
 
 ## Post-Submission
 
-- Tag the version in the repo!
+- Tag the version in the repo!  Use consistent tags within a repo please.  The
+  tag should have the confrerence acronym and year, as well as the word
+  `submission' so it can be differentiated from revisions and camrea-ready
+  versions.
+- If the comments were hidden, be sure to add them back in and review them.
+- If any lingering tasks remain that we know that we want to update between
+  submission and camera-ready version, be sure that someone is assigned those
+  tasks.
+
+## After Reviews Back
+
+- Add the reviews to the repo as a markdown file (usually we create a folder for
+  this), and make sure everyone in the collaboration knows that the reviews are
+  posted (some venues only notify the corresponding author).
+- Whether or not the paper was accepted, go through the reviews and address
+  comments / add TODOs for comments that still need to be addressed (or make
+  sure that someone does this).
+- If the paper is accepted, work with collaborators to get a polished version. You
+  should send reminders / set deadlines.
+- If the paper is not accepted, work with collaborators to identify the next
+  venue as soon as possible. 
