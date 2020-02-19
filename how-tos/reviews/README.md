@@ -21,3 +21,7 @@ Here is a list of feedback that addresses common issues with reviews:
   revew, please write about the paper / methods / etc, but not about the
   authors.  (e.g., instead of `the authors fail to do X` instead write
   `Including X in the paper would have strengthened the paper`
+* If you suggest accepting the paper, you need to give a strong argument for
+  why this paper should be accepted. Explain what is novel, and why 
+* If you suggest rejecting the paper, you should have strong reasons for rejection
+  (and not just editorial comments).
