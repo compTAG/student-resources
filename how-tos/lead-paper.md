@@ -24,12 +24,14 @@ the things that they should keep in mind:
   comments.  (You can remove all todos and things people say by uncommenting the
   2nd line of the snippet):
 
+    ```
     \newcommand{\payAttention}[3]{{[[\color{#1}{\textbf{#2: }}\color{blue}{#3}]]}}
     %\renewcommand{\payAttention}[3]{}
     \newcommand{\todo}[1]{\payAttention{red}{TODO}{#1}}
     \newcommand{\xSays}[3]{\payAttention{#1}{#2 Says}{#3}}
     \newcommand{\brittany}[1]{\xSays{blue}{Brittany}{#1}}
     \newcommand{\dave}[1]{\xSays{magenta}{Dave}{#1}}
+    ```
 
 - As the submission gets closer, you might want to push more polished versions
   as well.
