@@ -1,0 +1,112 @@
+\documentclass[a4paper,10pt,twocolumn]{article}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{color}
+\newcommand{\payAttention}[3]{{[[\color{#1}{\textbf{#2: }}\color{blue}{#3}]]}}
+%\renewcommand{\payAttention}[3]{} %% to hide!
+\newcommand{\todo}[1]{\payAttention{red}{TODO}{#1}}
+\newcommand{\xSays}[3]{\payAttention{#1}{#2 Says}{#3}}
+\newcommand{\brittany}[1]{\xSays{blue}{Brittany}{#1}}
+\newcommand{\dave}[1]{\xSays{magenta}{Dave}{#1}}
+
+\graphicspath{{./}{figs/}}
+\newcommand{\figref}[1]{Figure~\ref{fig:#1}}
+
+% specific to this paper
+
+
+%opening
+\title{\todo{title}}
+\author{
+    FNAME LNAME\thanks{school, \url{name@uni.edu}},
+    FNAME LNAME\thanks{school, \url{name@uni.edu}}
+}
+\date{1 April 2020}
+
+
+\begin{document}
+
+\maketitle
+
+\section*{Abstract}
+
+\todo{max 400 characters}
+
+\section*{Audience}
+
+\todo{ Define your audience. If this is a career-related submission, indicate
+the target group (e.g. midcareer professionals). Tailoring the submission to
+your audience will ensure a higher chance of success. If we accept your
+submission, the audience level will be at the discretion of the GHC 20 Track
+Co-chairs.
+
+Expertise level: If this is a technical submission, indicate whether this
+submission is aimed at the Beginner, Intermediate, or Advanced level. If we
+accept your submission, the audience level will be at the discretion of the GHC
+20 Track Co-chairs.  }
+
+\section{Introduction}
+
+\todo{General guidelines:
+\begin{itemize}
+    \item for most submission types: Max 4 pages: 3 pages for content + 1 page for speaker bios
+    \item for posters: Your proposal must be three (3) pages maximum, including references.
+\end{itemize}
+        }
+
+% \begin{figure}
+%     \centering
+%     \includegraphics[height=2in]{figname}
+%     \caption{TODO.}
+%     \label{fig:figname}
+% \end{figure}
+
+\section{Core Points of Contention}
+\todo{needed for Panel only.}
+
+\section{Plan of Action}
+
+\todo{describe the format of the presentation}
+
+\section{Outcomes}
+
+\todo{how will this benefit the audience?}
+
+\section*{Participant Statement}
+
+If accepted, the moderator and panelists are committed to
+attending GHC 2020 and serving on this~panel.
+
+% ... through here is max 3 pages}
+{
+ \bibliographystyle{acm}
+ \bibliography{references}
+}
+
+\section*{Biographies}
+
+% ... max one page bios
+
+\paragraph{NAME}
+\todo{Bio of speaker/panelists.  Needed for all tracks. Special notes:
+\begin{itemize}
+    \item Panel: 1 moderator and 3-4 panelists, no two from the same
+        institution.
+    \item Poster: 1 presenter per poster.  If graduate student ACM competition,
+        no co-authors should be listed.
+    \item Presentation: 1-2 presenters
+    \item Mentoring Circles: 1-2 mentors per submission
+    \item Workshop: 2-3 Facilitators
+\end{itemize}
+}
+
+
+\section*{Acknowledgements}
+\todo{}
+
+\end{document}
