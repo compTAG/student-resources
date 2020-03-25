@@ -18,16 +18,29 @@ the things that they should keep in mind:
 - At least one hour before the deadline (and preferably many hours before the
   deadline), a clean submission should be made, just in case the internet in
   Montana goes down (or you fall asleep while typing the last sentence).  To do
-  this, please temporarily hide all of the comments in the document (via the .sty file ...
-  do not comment them out).
+  this, please temporarily hide all of the comments in the document (via the
+  `.sty` file. DO not COMMENT THEM OUT).
+  You can use the following snippet to easily add and remove TODOs and author
+  comments.  (You can remove all todos and things people say by uncommenting the
+  2nd line of the snippet):
+
+    ```
+    \newcommand{\payAttention}[3]{{[[\color{#1}{\textbf{#2: }}\color{blue}{#3}]]}}
+    %\renewcommand{\payAttention}[3]{}
+    \newcommand{\todo}[1]{\payAttention{red}{TODO}{#1}}
+    \newcommand{\xSays}[3]{\payAttention{#1}{#2 Says}{#3}}
+    \newcommand{\brittany}[1]{\xSays{blue}{Brittany}{#1}}
+    \newcommand{\dave}[1]{\xSays{magenta}{Dave}{#1}}
+    ```
+
 - As the submission gets closer, you might want to push more polished versions
   as well.
 
 ## Post-Submission
 
 - Tag the version in the repo!  Use consistent tags within a repo please.  The
-  tag should have the confrerence acronym and year, as well as the word
-  `submission' so it can be differentiated from revisions and camrea-ready
+  tag should have the conference acronym and year, as well as the word
+  'submission' so it can be differentiated from revisions and camera-ready
   versions.
 - If the comments were hidden, be sure to add them back in and review them.
 - If any lingering tasks remain that we know that we want to update between
@@ -45,4 +58,4 @@ the things that they should keep in mind:
 - If the paper is accepted, work with collaborators to get a polished version. You
   should send reminders / set deadlines.
 - If the paper is not accepted, work with collaborators to identify the next
-  venue as soon as possible. 
+  venue as soon as possible.
