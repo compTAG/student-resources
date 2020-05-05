@@ -36,9 +36,11 @@ prove-a-thons, which is a common time to work on research problems.
     [Git Udacity Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 3. Reading: To get started in the filed, please see the Introductory Readings
+   and Vides
    for Topics sections of
    [README](https://github.com/compTAG/student-resources#introductory-readings-for-topics)
    page.  For a crash course on some specific topics, watch these videos:
+    * Group theory: https://www.youtube.com/watch?v=O4plQ5ppg9c&list=PLAvgI3H-gclb_Xy7eTIXkkKt3KlV6gk9_
     * Persistent Homology: https://www.youtube.com/watch?v=h0bnG1Wavag&amp;t=16s
     * Topological Data Analysis: https://www.youtube.com/watch?v=XOZN3XZdoO0
     * Computational Geometry: https://www.youtube.com/watch?v=LuTHBkyLJ1k
@@ -48,6 +50,7 @@ prove-a-thons, which is a common time to work on research problems.
     * Compute persistent homology of a triangle using [Dionysus](https://www.mrzv.org/software/dionysus/)
     * Compute a Delaunay triangulation in  [CGAL](https://www.cgal.org/), and
      output the triangulation data structure.
+    * Learn how to use the R TDA Package
 
 5. TeamPapers: Our team has authored several papers that we encourage you to read in order to learn more about our work:
     * Searching in the space of persistence diagrams: https://arxiv.org/abs/1812.11257
