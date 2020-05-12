@@ -20,4 +20,4 @@ used within our group.
 * [the new Standard ACM Conference Proceedings
   Template](https://www.acm.org/publications/proceedings-template), recently
   used with reconstruction-theory/papers/fods2020 (11 May 2020)
-* Others?
+* [CCCG-Specific Template](http://vga.usask.ca/cccg2020/), recently used with morse-alg/papers/cccg20
