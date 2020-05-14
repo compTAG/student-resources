@@ -20,4 +20,7 @@ used within our group.
 * [the new Standard ACM Conference Proceedings
   Template](https://www.acm.org/publications/proceedings-template), recently
   used with reconstruction-theory/papers/fods2020 (11 May 2020)
+* [Lecture Notes in Computer Science
+  LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines),
+  recently used with the Sung diagram paper.
 * [CCCG-Specific Template](http://vga.usask.ca/cccg2020/), recently used with morse-alg/papers/cccg20
