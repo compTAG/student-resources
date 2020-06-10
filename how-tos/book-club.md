@@ -18,17 +18,22 @@ bring one or two questions or thoughts that can help improve the discussion.
 Trying to come up with a few questions will help you be more engaged with the
 material.
 
+After the meeting, send the presenters one up / one down feedback.
+
 ## For Presenters
 
 Your goal is to lead a discussion, which is way more fun than just a lecture.
 You should try to go beyond the content.  What we sometimes call, "adding a
 plus-one".  A few ways to add a plus-one is:
 
-* Go to the primary sources to add in details of omitted steps.
+* Add in details of omitted or hand-waved steps. Often, the author points these
+  out as an exercise to the reader.
+* Go to the primary sources to see full proofs, or perhaps more context. Is
+  there something helpful in the primary source that was not in the reading?
 * Each topic has a "main point".  Work though a few examples that use the "main
   point"
 
-Often we pair you up for leading discussions.  The pairing is to allow you and
+Often, we pair you up for leading discussions.  The pairing is to allow you and
 your partner to work together to make a plan for leading the discussion.  Note
 that it is a way easier to come up with a plan if you have someone to discuss
 with.  Often, you will find that the discussion will help you come up with an
@@ -49,20 +54,24 @@ To prepare:
 
 When leading the discussion:
 
-1. take note of those in attendance (you will use your list to ask for feedback
+1. Take note of those in attendance or assign this task to another CompTaG
+   member (you will use your list to ask for feedback
    later)
 
-2. enjoy the benefit of your hard work and preparation!
+2. Embrace the questions!  Some you are prepared for, but some you might not
+   have thought about yet.  Feel free to take a second to think or to ask for a
+   clarification.  If you still don't know the answer, either open it up for
+   discussion or ask to table that question until the end or slack.
 
+3. Enjoy the benefit of your hard work and preparation!
 
 Continuous improvement is the best way to improve your communication skills.
 One way to improve is to solicit feedback.  After you present:
 
 1. Post a reminder to those in attendance to ask for one-up one-down feedback.
 
-2. Make sure to thank each person that gives you feedback and follow up with
-   them on any questions that you have about how you can improve.
+2. Thank each person that gives you feedback and follow up with them on any
+   questions that you have about how you can improve.
 
-3. Make sure to follow up with any additional questions, todos, or content
-   postings that may have arose during the discussion.
-
+3. Follow up with any additional questions, todos, or content postings that may
+   have arose during the discussion.
