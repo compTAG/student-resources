@@ -1,3 +1,7 @@
+0. IF PUBLISHED with DOI: just provid the following:
+    * DOI number:
+    * Title:
+    * Link (if exists):
 1. Book
     * Status: (Published, Accepted, Awaiting Publication, Submitted, Under Review, Other)
     * Author (s): TODO
