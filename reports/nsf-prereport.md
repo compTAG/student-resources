@@ -23,6 +23,8 @@ always in a bulleted list (starting with a *).
 * Your Role:
 + Collaborators: TODO: list collaborators on this research:
 
+Copy/paste the formatting to add more if needed!
+
 ## Training and Professional Development
 
 For each conference or workshop you attended during this reporting period,
