@@ -8,11 +8,8 @@ and become prepared to begin making contributions!
 ## Logistics
 
 ### Meeting Location
-We currently meet at Faculty Court #23 (FC23). To obtain a
-key for FC23, contact Suzie Hockel or Brittany Fasy.  (At this time,
-keys are not given to undergraduate students.  However, undergraduates are
-welcome to work at FC23).  Snacks and sodas are available on an honor system
-cash payment in the kitchen.
+We currently meet on Tuesday mornings via Zoom. 
+
 
 ### Weekly Meetings
 See slack for the updated meeitng times.  We have a one hour research seminar
@@ -21,12 +18,18 @@ prove-a-thons, which is a common time to work on research problems.
 
 ## Onboarding Tasks
 
+1. Faculty Court 23. Our main meeting location isFaculty Court #23 (FC23).
+   Graduate students can obtain a key by contacting Suzie Hockel or Brittany
+   Fasy.  Snacks and sodas are available on an honor system cash payment in the
+   kitchen. Please post in the slack channel #fc23 about your comings and goings
+   to FC23.  If we go into Phase 2 restrictions again, FC23 will only be
+   available with prior permission.
+
 1. [Slack](https://alice-storytelling.slack.com/home): Most of the
    communication between team members occurs on Slack, which is a team
    collaboration software. Both web and mobile versions are available, and we
    encourage that you install Slack on your smartphone if possible. To be added
-   to our Slack group, use the following link:
-   [Slack-link](https://join.slack.com/t/tda-at-msu/shared_invite/enQtMjk4NDIwMjY2MDY2LTNhYTYwOWRjNWM3ZGU2MzdlODFkOTA5MzNiNTFmMDQyZTc2NzkxNGNjMjlmZGFjZGZlNmEyYTE2MjBhMGFhMjE).
+   to our Slack group, please ask Brittany Fasy or David Millman.
     * Post a message to #general to introduce yourself to the group!
     * Click on the word `Channels` and join any conversations that seem
       interesting to you.
