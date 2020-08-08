@@ -49,11 +49,15 @@ prove-a-thons, which is a common time to work on research problems.
     * Computational Geometry: https://www.youtube.com/watch?v=LuTHBkyLJ1k
 
 4. Code: Papers (even theoretical ones) typically have an experimental section,
-   which means that you should be comfortable running some code!  To get started, we have two tasks:
+   which means that you should be comfortable running some code!  To get started, complete the following tasks:
     * Compute persistent homology of a triangle using [Dionysus](https://www.mrzv.org/software/dionysus/)
     * Compute a Delaunay triangulation in  [CGAL](https://www.cgal.org/), and
      output the triangulation data structure.
-    * Learn how to use the R TDA Package
+    * Learn how to use the R TDA Package.
+    * Complete the Hyalite training. Hyalite is the research computing cluster
+      on campus. To schedule a training, please email Research Cyberinfrastructure
+      at hyalite-support@montana.edu and copy Brittany Fasy and David
+      Millman.
 
 5. TeamPapers: Our team has authored several papers that we encourage you to read in order to learn more about our work:
     * Searching in the space of persistence diagrams: https://arxiv.org/abs/1812.11257
