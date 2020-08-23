@@ -1,0 +1,55 @@
+\ProvidesPackage{bstyle}
+
+\usepackage[english]{babel}
+
+% standard topological space
+\def\R{{\mathbb R}}
+\def\S{{\mathbb S}}
+\def\Z{{\mathbb Z}}
+
+% for topological space
+\def\X{{\mathbb{X}}}
+\def\M{{\mathbb M}}
+\def\Y{{\mathbb Y}}
+
+\newcommand {\mm}[1] {\ifmmode{#1}\else{\mbox{\(#1\)}}\fi}
+\newcommand{\Fdist}[2]      {\mm{\mathcal{F}}({#1},{#2})}
+
+%% color def
+\definecolor{darkpink}{RGB}{219, 48, 122}
+
+%% for colorblocks!
+\setbeamercolor{yellow}{fg=black,bg=yellow}
+\setbeamercolor{lightyellow}{fg=black,bg=yellow!40}
+\setbeamercolor{orange}{fg=black,bg=orange}
+\setbeamercolor{lightorange}{fg=black,bg=orange!40}
+%%
+\newenvironment{colorblock}[2]
+{\setbeamercolor{item}{fg=#1,bg=#1}\begin{beamerboxesrounded}[upper=#1,lower=#2,shadow=true]}
+{\end{beamerboxesrounded}}
+
+%% remove nav bars
+%gets rid of navigation symbols
+\setbeamertemplate{navigation symbols}{}
+
+
+%\beamertemplategridbackground[3px]
+\beamertemplategridbackground[.2cm]
+
+\graphicspath{{../FIGS/}{../figs/}}
+
+
+\usepackage{tikz}
+\usepackage[absolute,overlay]{textpos}
+\newcommand{\showdim}[1]{
+\begin{textblock*}{40mm}(118mm,14mm)
+\tikz[label distance=2mm]
+\node[circle,fill=blue!15] at (0,0) {$\R^{{#1}}$};
+\end{textblock*}
+}
+
+% ... to make TODO items easy to see
+\newcommand{\todo}[1]{{\color{red}[[\textbf{XXX TODO: }#1]]}}
+
+% ... for striketrhough text
+\usepackage{soul}
