@@ -24,3 +24,7 @@ used within our group.
   LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines),
   recently used with the Sung diagram paper.
 * [CCCG-Specific Template](http://vga.usask.ca/cccg2020/), recently used with morse-alg/papers/cccg20
+
+## Find Latex codes for symbol 
+
+* Use the following site to find the latex code of a symbol. Go to the site and draw the symbol in the given window. The website will output the latex codes for the symbol drawn
