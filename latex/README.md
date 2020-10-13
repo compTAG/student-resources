@@ -27,4 +27,5 @@ used within our group.
 
 ## Find Latex codes for symbol 
 
-* Use the following site to find the latex code of a symbol. Go to the site and draw the symbol in the given window. The website will output the latex codes for the symbol drawn
+* Use the following site to find the latex code of a symbol. Go to the site and draw the symbol in the given window. The website will output the latex codes for the symbol drawn.
+http://detexify.kirelabs.org/classify.html
