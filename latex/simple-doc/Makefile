@@ -1,5 +1,4 @@
 LATEX = latexmk
-MAIN=main.tex
 
 default: pdf
 
@@ -7,13 +6,13 @@ default: pdf
 
 clean:
 	${LATEX} -c
-	rm -f *.vtc
+	rm -f *.vtc *.bbl
 
 veryclean: clean
 	${LATEX} -C
 
 pdf:
-	${LATEX} -pdf ${MAIN}
+	${LATEX} -pdf
 
 pdf-watcher:
-	${LATEX} -pvc -pdf ${MAIN}
+	${LATEX} -pvc -pdf
