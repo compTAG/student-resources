@@ -2,6 +2,7 @@
 
 * NAME: TODO
 * DATE: TODO
+* Committee members: TODO
 
 ## Reflection on Last Semester
 
