@@ -29,3 +29,8 @@ used within our group.
 
 * Use the following site to find the latex code of a symbol. Go to the site and draw the symbol in the given window. The website will output the latex codes for the symbol drawn.
 http://detexify.kirelabs.org/classify.html
+
+## LaTex Figures!
+
+* The best source is to look at the LaTex wikibook page on:
+  [Floats, Figures, and Captions](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions) 
