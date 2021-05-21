@@ -34,6 +34,7 @@ times.
 3. GIT: if you are not yet familiar with git (or need a refresher), please take
    the GIT Udacity course:
     [Git Udacity Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+    or use the desktop learning app [Git-it](https://www.electronjs.org/apps/git-it).
 
 4. Videos: To get started in the filed, please see the Introductory Readings
    and Videos
