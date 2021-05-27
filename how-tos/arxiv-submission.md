@@ -73,3 +73,5 @@ publishing information (if known).
 6. Click submit! You should get an email telling you when the paper will appear
 on the ArXiv.
 
+7. Forward the email to all coauthors.  They will need the code in it in order
+   to claim ownership. [Link](arxiv.org/auth/need-paper-password)
