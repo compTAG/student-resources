@@ -21,7 +21,7 @@ times.
    to FC23.  If we go into Phase 2 restrictions again, FC23 will only be
    available with prior permission.
 
-2. [Slack](https://alice-storytelling.slack.com/home): Most of the
+2. [Slack](https://tda-at-msu.slack.com/home): Most of the
    communication between team members occurs on Slack, which is a team
    collaboration software. Both web and mobile versions are available, and we
    encourage that you install Slack on your smartphone if possible. To be added
@@ -34,6 +34,7 @@ times.
 3. GIT: if you are not yet familiar with git (or need a refresher), please take
    the GIT Udacity course:
     [Git Udacity Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+    or use the desktop learning app [Git-it](https://www.electronjs.org/apps/git-it).
 
 4. Videos: To get started in the filed, please see the Introductory Readings
    and Videos
