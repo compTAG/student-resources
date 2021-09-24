@@ -66,3 +66,10 @@ times.
     * [Fast randomized point location without preprocessing in two-and three-dimensional Delaunay triangulations (by Binhai and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772198000352)
     * [On the Bootstrap for Persistence Diagrams and Landscapes (by Brittany and collabs)](https://arxiv.org/abs/1311.0376)
     * [Parallel Geometric Algorithms for Multi-core Computers (by Dave and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772110000362)
+
+7. Other Resources
+
+    * [Box Folder](https://montana.box.com/s/nrt9xknm2b8lp53pjltiveoueco574jd):
+        this box folder contains miscelaneous files, such as sample USP or GRFP
+        proposals.  If you need access, just ask Prof. Fasy.  Note: this will be
+        ported to SharePoint in Spring 2022.
