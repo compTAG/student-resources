@@ -51,6 +51,14 @@
 
 % ... for comments when working on the review response
 \usepackage{color}
+\newcommand{\payAttention}[3]{{\color{#1}[[\textbf{#2: }#3]]}}
+\newcommand{\todo}[1]{\payAttention{red}{TODO}{#1}}
+\newcommand{\xSays}[3]{\payAttention{#1}{#2 Says}{#3}}
+\newcommand{\brittany}[1]{\xSays{blue}{Brittany}{#1}}
+\newcommand{\dave}[1]{\xSays{blue}{Dave}{#1}}
+\newcommand{\yourname}[1]{\xSays{blue}{Yourname}{#1}}
+%\renewcommand{\payAttention}[3]{}
+
 \newcommand{\todo}[1]{{\color{blue}[[\textbf{TODO: }#1]]}}
 \newcommand{\remark}[2]{{\color{red}[[\textbf{Comment from #1: }#2]]}}
 \newcommand{\yourname}[1]{\remark{YOU!!!}{#1}}
