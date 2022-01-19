@@ -30,12 +30,6 @@ For more on how to write good commit messages, see blogs from:
 Academic writing is mastered in one way: practice and learn from your mistakes.  The following resources we find helpful:
 
 - [Ott's 10 Tips](http://www.ms.uky.edu/~kott/proof_help.pdf)
-- [Figure
-  Captions](http://www.biosciencewriters.com/Tips-for-Writing-Outstanding-Scientific-Figure-Legends.aspx):
-  This website is a great resource for how to write a figure caption. If you
-  want a concrete example, take a look at [this
-  paper](http://pub.ist.ac.at/~edels/Papers/2012-P-11-PHTheoryPractice.pdf) as
-  well.
 - [Communicating Statistical Results](http://www.stat.colostate.edu/~jah/teach/st540/write.pdf):
   Written for statisticians, but applicable for all scientific articles.
 - [Bibtex Cheatsheet](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management)
@@ -59,6 +53,12 @@ a template in the poster folder.
 - [Inkscape Soup Can Tutorial](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/SoupCan.html): this tutorial gives you a jump start on using Inkscape (basically, the free version of illustrator).  Some keyboard shortcuts are given.
 - [Advanced Inkscape](https://inkscape.org/en/doc/tutorials/advanced/tutorial-advanced.en.html)
 - [textext](https://pav.iki.fi/software/textext/) - for including LaTex in Inkscape.  There is a bug with textext, see [wiki](https://github.com/compTAG/student-resources/wiki/Inkscape-&-Mac-Errors-with-textext) for how to fix.
+- [Figure
+  Captions](http://www.biosciencewriters.com/Tips-for-Writing-Outstanding-Scientific-Figure-Legends.aspx) in papers:
+  This website is a great resource for how to write a figure caption. If you
+  want a concrete example, take a look at [this
+  paper](http://pub.ist.ac.at/~edels/Papers/2012-P-11-PHTheoryPractice.pdf) as
+  well.
 
 ## Introductory Readings for Topics ##
 
