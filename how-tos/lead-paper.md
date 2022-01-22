@@ -8,6 +8,8 @@ the things that they should keep in mind:
 
 - Set-up a repo: if a repo does not already exist, be sure to start one.  Please
   add all co-authors to this repo.
+- Once a venue is decided, change the format of the paper to the one required for
+  submission.
 
 ## Submission
 
