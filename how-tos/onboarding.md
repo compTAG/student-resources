@@ -49,7 +49,9 @@ times.
 
 5. Code: Papers (even theoretical ones) typically have an experimental section,
    which means that you should be comfortable running some code!  To get started, complete the following tasks:
-    
+
+    * If you don't have a strong background in CS / programming, we recommend
+      taking a coursera course, such as [PY4E](https://www.py4e.com/)
     * Compute persistent homology of a triangle using [Dionysus](https://www.mrzv.org/software/dionysus/)
     * Compute a Delaunay triangulation in  [CGAL](https://www.cgal.org/), and
      output the triangulation data structure.
