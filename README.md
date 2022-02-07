@@ -40,7 +40,10 @@ Academic writing is mastered in one way: practice and learn from your mistakes. 
 - [Journal Abbreviations](https://mathscinet.ams.org/msnhtml/serials.pdf) lists
   standard abbreviations for most journals.
 - [That vs. Which](https://www.quickanddirtytips.com/education/grammar/which-versus-that-0) explains when to use the word 'that' versus 'which', and how to properly punctuate both.
-
+- [Graphical
+  Abstracts](https://www.animateyour.science/post/how-to-design-an-effective-graphical-abstract-the-ultimate-guide)
+  are a great way to give a visual summary of your papers that help readers
+  digest the technical stuff.
 
 ## Posters and Figures ##
 
