@@ -15,7 +15,7 @@ For each MSU person, we need:
 
 ## 3.2 Student Principal Investigator
 
-YES or NO
+* TODO: YES or NO
 
 ## 3.3 External Protocol Personnel
 All other personnel (those without NetIDs).
