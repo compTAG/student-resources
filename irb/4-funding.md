@@ -3,10 +3,11 @@
 ## 4.1 Funding Sources
 
 Select all applicable:
-* Funded Research: YES
-* Classroom Research: Y/N
-* Unfunded: Y/N
-* Other: Y/N
+
+* Funded Research: TODO:YES/NO
+* Classroom Research:  TODO:YES/NO
+* Unfunded: TODO:YES/NO
+* Other: NO 
 
 ### 4.1.1.1 (If Funded Research)
 
