@@ -36,6 +36,19 @@ times.
     [Git Udacity Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
     or use the desktop learning app [Git-it](https://www.electronjs.org/apps/git-it).
 
+4. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) You will
+   need to complete Collaborative Institutional Training Initiative (CITI)
+   training.  Please complete these trainings, then  post a message on Slack to
+   Brittany and David to let them know the dates that you have completed these
+   modules. This should be done within 30 days of joining this team.
+   Specifically, you will need to complete:
+    - All students in CompTaG should complete: the Social and Behavorial
+      Responsible Conduct of Research (RCR) module.
+    - If you help with outreach events and/or use human-subject data (e.g.,
+      Twitter data, GPS trajectories), you will additionally need to complete
+      Human Subjects Research -  Social and Behavioral Research. 
+        
+
 4. Videos: To get started in the filed, please see the Introductory Readings
    and Videos
    for Topics sections of
