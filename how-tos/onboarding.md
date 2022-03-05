@@ -42,7 +42,7 @@ times.
    Brittany and David to let them know the dates that you have completed these
    modules. This should be done within 30 days of joining this team.
    Specifically, you will need to complete:
-    - All students in CompTaG should complete: the Social and Behavorial
+    - All students in CompTaG should complete: a 
       Responsible Conduct of Research (RCR) module.
     - If you help with outreach events and/or use human-subject data (e.g.,
       Twitter data, GPS trajectories), you will additionally need to complete
