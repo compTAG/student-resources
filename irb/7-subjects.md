@@ -29,18 +29,18 @@ Describe
 ## Research Subjects
 For each subject group:
 
-* (Optional) Subject Group Name
-* Approximate Total Number of Subjects
-* Age Range of Subjects
-* (Optional) Additional Comments
+* (Optional) Subject Group Name: TODO
+* Approximate Total Number of Subjects: TODO
+* Age Range of Subjects: TODO
+* (Optional) Additional Comments: TODO
 
 ## 7.3 Normal/Control Subjects
 If you are using Normal/Control subjects in your study, fill out the table below. Select the green (+) to add rows to the table.
 
-* (Optional) Normal/Control Subject Group Name
-* Approximate Total Number of Subjects
-* Age Range of Subjects
-* (Optional) Additional Comments
+* (Optional) Normal/Control Subject Group Name: TODO
+* Approximate Total Number of Subjects: TODO
+* Age Range of Subjects: TODO
+* (Optional) Additional Comments: TODO
 
 ## 7.4 Selection Criteria
 Explain the criteria for subject selection. How will subjects be identified?
