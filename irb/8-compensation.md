@@ -17,3 +17,15 @@ TODO: Choose all that are applicable.
 * Gift Cards
 * Course Credits
 * Other
+
+#### 8.1.1.1.1.1 (If money checked above ...)
+Monetary Compensation
+How much money will be offered? How will payments be made?
+
+* TODO
+
+#### (#### If Other checked above ...)
+Other Compensation
+Explain what other compensation will be offered and how it will be delivered.
+
+* TODO
