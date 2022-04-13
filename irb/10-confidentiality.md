@@ -44,6 +44,12 @@ Will a Data Use Agreement (DUA), Data Sharing, Testing Services, or other agreem
 * TODO: (if yes): attach user agreement.
 * TODO: (if no) Provide justification.
 
+#### 10.4.1.2.2.1 (if no to 10.4.1.2)
+No Data Sharing Agreemnt
+Provide justification:
+
+* TODO: (e.g., "The data sharing is covered by the Reliance Agreement.")
+
 ## 10.5 Document and Data Storage
 How will data be stored and protected? Checkmark all that apply.
 
