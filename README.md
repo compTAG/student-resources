@@ -30,7 +30,7 @@ For more on how to write good commit messages, see blogs from:
 Academic writing is mastered in one way: practice and learn from your mistakes.  The following resources we find helpful:
 
 - [Ott's 10 Tips](http://www.ms.uky.edu/~kott/proof_help.pdf)
-- [Communicating Statistical Results](http://www.stat.colostate.edu/~jah/teach/st540/write.pdf):
+- [Communicating Statistical Results](https://www.math.ttu.edu/~atrindad/stat5302-5303/Materials/Hoeting-Givens.pdf):
   Written for statisticians, but applicable for all scientific articles.
 - [Bibtex Cheatsheet](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management)
 - Pseudocode resources:
