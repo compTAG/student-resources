@@ -43,7 +43,8 @@ times.
    modules. This should be done within 30 days of joining this team.
    Specifically, you will need to complete:
     - All students in CompTaG should complete: a 
-      Responsible Conduct of Research (RCR) module.
+      Responsible Conduct of Research (RCR) module. Once complete, please ping
+      Brittany on slack, and upload your certificate to the [CompTaG SP Folder](https://montanaedu-my.sharepoint.com/:f:/r/personal/n12v755_msu_montana_edu/Documents/COMPTAG/granting/RCR?csf=1&web=1&e=DIOAiu).
     - If you help with outreach events and/or use human-subject data (e.g.,
       Twitter data, GPS trajectories), you will additionally need to complete
       Human Subjects Research -  Social and Behavioral Research. 
