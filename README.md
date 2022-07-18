@@ -55,7 +55,7 @@ a template in the poster folder.
   a great resource for knowing what font size to use, etc.
 - [Inkscape Soup Can Tutorial](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/SoupCan.html): this tutorial gives you a jump start on using Inkscape (basically, the free version of illustrator).  Some keyboard shortcuts are given.
 - [Advanced Inkscape](https://inkscape.org/en/doc/tutorials/advanced/tutorial-advanced.en.html)
-- [textext](https://pav.iki.fi/software/textext/) - for including LaTex in Inkscape.  There is a bug with textext, see [wiki](https://github.com/compTAG/student-resources/wiki/Inkscape-&-Mac-Errors-with-textext) for how to fix.
+- [textext](https://pav.iki.fi/software/textext/) - for including LaTex in Inkscape. Note that this package is no longer maintained, but seems to work overall still.  There is a bug with textext in Mac, see [wiki](https://github.com/compTAG/student-resources/wiki/Inkscape-&-Mac-Errors-with-textext) for how to fix.
 - [Figure
   Captions](http://www.biosciencewriters.com/Tips-for-Writing-Outstanding-Scientific-Figure-Legends.aspx) in papers:
   This website is a great resource for how to write a figure caption. If you
