@@ -13,13 +13,16 @@ always in a bulleted list (starting with a *).
 * Full name: TODO
 * e-mail: TODO
 * Funding support (list all, including travel support):
-* International Travel? TODO (if yes, which countries and how long in each country?)
+* International Travel? TODO (if yes, which countries and how long (number of days) in each country?)
 
 ## Research Activiites / Results
 
+Try to break up what you've worked on over this reporting period into a list of
+specific projects.  For each project, copy/paste the bulleted list below.
+
 + Project: TODO
-* Accomplishments: TODO: describe the accomplishments that you have made towards
-  the grant goals during this reporting period.
+* Accomplishments: TODO: describe the accomplishments that you have made
+  during this reporting period.
 * Next steps: TODO: describe the next steps (if any)
 * Impact: TODO: describe the impact of this project
 * Your Role: TODO
@@ -35,7 +38,7 @@ please provide the following information:
 * Event: TODO
 * Dates: TODO
 * Location: TODO
-* Presentation (if applicable): TODO, give title and type of presentation, if you presented
+* Presented? Yes/No
 * Take Home: TODO, describe how attending this event helped your research on this
   project and/or was aided your professional development.
 
@@ -50,11 +53,12 @@ reports, etc.)
 
 * Title: TODO
 * Abstract: TODO
+* Type: TODO:poster/oral/other
 * Event: TODO 
 
 ## Products
 
-List all products created or published during this reporting period.
+List all products created, revised, or published during this reporting period.
 Copy/paste the format from the best choice in [product-formatting.md](https://github.com/compTAG/student-resources/tree/master/reports/product-formatting.md)
 
 TODO: list published items, submitted items, as well as works in progress
