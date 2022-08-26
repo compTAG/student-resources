@@ -50,7 +50,7 @@ that you have participated in during the reporting period, whether formal or
 informal.  (e.g., helping with train more junior students, writing referee
 reports, etc.)
 
-## Presentations (internal and external)
+## Presentations (internal and external, including outreach presentations)
 
 * Title: TODO
 * Abstract: TODO
