@@ -10,7 +10,8 @@ always in a bulleted list (starting with a *).
 
 ## Your Information:
 
-* Full name: TODO
+* First name: TODO
+* Last name: TODO
 * e-mail: TODO
 * Funding support (list all, including GTAships and travel support):
 * International Travel? TODO (if yes, which countries and how long (number of days) in each country?)
