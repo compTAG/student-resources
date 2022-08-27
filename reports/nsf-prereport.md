@@ -50,12 +50,19 @@ that you have participated in during the reporting period, whether formal or
 informal.  (e.g., helping with train more junior students, writing referee
 reports, etc.)
 
-## Presentations (internal and external, including outreach presentations)
+## Research Presentations (internal and external)
 
 * Title: TODO
 * Abstract: TODO
 * Type: TODO:poster/oral/other
 * Event: TODO 
+
+## Outreach Presentations
+
+* When: TODO
+* Audience: TODO
+* What you did: TODO
+* If applicable, summary of data collected (quotes, etc): TODO
 
 ## Products
 
