@@ -43,7 +43,8 @@
     * Title: TODO
     * Author(s): TODO
     * Short Description: TODO
-6. Other Product: Database, Physical Collection, Audio/Video Product, Software, Models, Education aids or curricula, Evaluation Instruments, Survey Instruments, Protocols, etc.
+6. Other Product
+    * Select Product type: Database, Physical Collection, Audio/Video Product, Software, Models, Education aids or curricula, Evaluation Instruments, Survey Instruments, Protocols, etc.
     * Describe the product and how it is being shared: TODO
 7. Website
     * Title: TODO
