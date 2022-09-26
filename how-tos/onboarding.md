@@ -15,20 +15,19 @@ times.
 ## Onboarding Tasks
 
 1. Faculty Court 23. Our main meeting location isFaculty Court #23 (FC23).
-   Graduate students can obtain a key by contacting Suzie Hockel or Brittany
-   Fasy.  Snacks and sodas are available on an honor system cash payment in the
-   kitchen. Please post in the slack channel #fc23 about your comings and goings
-   to FC23.  If we go into Phase 2 restrictions again, FC23 will only be
-   available with prior permission.
+   Graduate students can obtain a key by contacting Brittany.
+   Snacks and sodas are available on an honor system cash payment in the
+   kitchen.
 
 2. [Slack](https://tda-at-msu.slack.com/home): Most of the
    communication between team members occurs on Slack, which is a team
    collaboration software. Both web and mobile versions are available, and we
    encourage that you install Slack on your smartphone if possible. To be added
-   to our Slack group, please ask Brittany Fasy or David Millman.
+   to our Slack group, please ask Brittany for the invitation link.
 
     * Post a message to #general to introduce yourself to the group!
-    * Click on the word `Channels` and join any conversations that seem
+    * Click on the word `Channels` and take a look through the many channels we
+      have discussion various projects.  Feel free to join any conversations that seem
       interesting to you.
 
 3. GIT: if you are not yet familiar with git (or need a refresher), please take
@@ -48,11 +47,9 @@ times.
     - If you help with outreach events and/or use human-subject data (e.g.,
       Twitter data, GPS trajectories), you will additionally need to complete
       Human Subjects Research -  Social and Behavioral Research. 
-        
 
-4. Videos: To get started in the filed, please see the Introductory Readings
-   and Videos
-   for Topics sections of
+4. Videos: To get started working in CompTaG research, please see the Introductory Readings
+   and Videos for Topics sections of
    [README](https://github.com/compTAG/student-resources#introductory-readings-for-topics)
    page.  For a crash course on some specific topics, watch these videos:
 
@@ -72,8 +69,7 @@ times.
     * Learn how to use the R TDA Package.
     * Complete the Hyalite training. Hyalite is the research computing cluster
       on campus. To schedule a training, please email Research Cyberinfrastructure
-      at hyalite-support@montana.edu and copy Brittany Fasy and David
-      Millman.
+      at hyalite-support@montana.edu and copy Brittany on that email.
 
 6. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
     
@@ -85,7 +81,6 @@ times.
 
 7. Other Resources
 
-    * [Box Folder](https://montana.box.com/s/nrt9xknm2b8lp53pjltiveoueco574jd):
+    * [SP Folder](https://montanaedu-my.sharepoint.com/:f:/r/personal/n12v755_msu_montana_edu/Documents/COMPTAG?csf=1&web=1&e=eEzXcy):
         this box folder contains miscelaneous files, such as sample USP or GRFP
-        proposals.  If you need access, just ask Prof. Fasy.  Note: this will be
-        ported to SharePoint in Spring 2022.
+        proposals.  If you need access, just ask Brittany.
