@@ -9,7 +9,18 @@ the things that they should keep in mind:
 - Set-up a repo: if a repo does not already exist, be sure to start one.  Please
   add all co-authors to this repo.
 - Once a venue is decided, change the format of the paper to the one required for
-  submission.
+  submission. Some tips/tricks:
+    * If this is a resubmission, do not create a new folder.  Tags can be used
+      to recall previous versions if needed.  You might need to rename the
+      folder.
+    * Depending on convention in the repo, either name the directory something
+      descriptive about the result we're writing up or use the venue.  My
+      preference is usually the former.
+    * Keep our macros in a standalone style file.  This is helpful so that we
+      can move our macros to a new format  with little headache if we change
+      the submission venue.
+    * Take all of the header stuff in the main TEX file and create a new style
+      file with it.  This helps keep the main tex file clean / easy to look at.
 
 ## Submission
 
