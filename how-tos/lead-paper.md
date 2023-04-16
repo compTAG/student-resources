@@ -22,9 +22,27 @@ the things that they should keep in mind:
     * Take all of the header stuff in the main TEX file and create a new style
       file with it.  This helps keep the main tex file clean / easy to look at.
 
+## Getting Close to Submission
+
+- The abstract should be one of the last things you write.  It is a summary of
+  the paper that should entice the reviewers (and eventual readers) to want to
+  read the paper.  Here are some resources:
+    * [How to Present an Abstract for a Paper Presentation - Elsevier](https://scientific-publishing.webshop.elsevier.com/publication-recognition/how-present-abstract-paper-presentation/?utm_source=google_ads&utm_medium=paid_search&utm_campaign=usapmax&gclid=CjwKCAjwue6hBhBVEiwA9YTx8JwsTEzpJzbFiLhy0A4pbsCZZZ_k3JoBEM9I5GR-s-Shkhte1o_ShRoCzRYQAvD_BwE&gclsrc=aw.ds)
+    * [A Student Guide to Writing an Abstract - MAA](https://mathcomm.org/a-student-guide-to-writing-an-abstract/)
+    * [IMRaD Structure](https://www.scribbr.com/dissertation/abstract/)
+    * [Abstracts for  Dissertations](https://gradcoach.com/what-is-a-dissertation-abstract/)
+- Clean-up the paper so it "looks" nice.  This includes:
+    * Ensuring no line begins with a math symbol (unless unavoidable).
+    * Adjusting paragraphs so that no short lines (orphans) appear.
+    * Make a careful pass through references, checking for:
+        + Correct capitalization
+        + Consistent abbreviations
+        + Every entry has a year
+
 ## Submission
 
-- Create a submission.  Often, you do not need to attach the paper, just add
+- Create a submission.  Often, you do not need to attach the paper with the
+  first submission, just add
   co-authors and the abstract (which can usually be changed later).  The
   abstract submission is often one week prior to the actual submission, so pay
   attention to the due dates (and times!).
@@ -32,7 +50,7 @@ the things that they should keep in mind:
   deadline), a clean submission should be made, just in case the internet in
   Montana goes down (or you fall asleep while typing the last sentence).  To do
   this, please temporarily hide all of the comments in the document (via the
-  `.sty` file. DO not COMMENT THEM OUT).
+  `.sty` file. Please do NOT comment them out in the *.tex files).
   You can use the following snippet to easily add and remove TODOs and author
   comments.  (You can remove all todos and things people say by uncommenting the
   2nd line of the snippet):
