@@ -7,16 +7,16 @@ Seminar has three goals:
 2. To start research conversations, and potentially tackle open problems.
 
 3. Practice presenting. You will give many presentations in your academic
-   career.  It is best to get some practice when you can.  The book club gives
-   you a low stress opportunity to try things out different presentation
-   techniques to see what does and what does not work.
+   career.  It is best to get some practice when you can, and seminar is a safe
+   space to do so.  Please be respectful of preesnters and responsive to
+   constructive criticism.
 
 ## For all seminar attendees
 
 If the presenters post something to read before the seminar, please read (or at
 least skim) the material that they post.  Try to bring one or two questions or
-thoughts that can help improve the discussion.  Trying to come up with a few
-questions will help you be more engaged with the material.
+thoughts that can help improve the discussion.  Being familiar with the material
+before the seminar starts will help you be more engaged with the presentation.
 
 After the meeting, send the presenters one up / one down feedback.  This can be
 sent as a DM on slack.
@@ -25,7 +25,8 @@ sent as a DM on slack.
   will help encourage them to continue those good presentations skills.
 * One down: let the presenter know one way that they could improve the
   presentation.  Rather than give the negative "you did this wrong", form your
-  feedback in a constructive way.
+  feedback in a constructive way.  Stay positive, even when giving negative
+  feedback. More bees with honey, they say.
 
 ## For Presenters
 
@@ -39,10 +40,12 @@ different formats that we have are:
   presentations take three weeks, with the first week focusd on giving the
   background, the second week on the paper (or a specific section of the paper),
   and the third week on "what next" or maybe more details on the paper.
+* Research updates.  When we do research updates, typically 2-3 students present
+  in one session.  If you need help with or feedback on something, these
+  seminars are good places to solicit that help/feedback.
 * Working on open problems.  Here, it is important that the leaders help quickly
   structure the working groups so that the majority of the time can be spent in
   the working groups.
-* A section of a book (see the How To Bookclub page).
 * A practice presentation.  Before beginning your presentation, let us know
   where you are presenting, who the audience is, and anything you want us to
   focus on.  After you give your talk, we will all discuss first our overall
@@ -54,7 +57,7 @@ that it is a way easier to come up with a plan if you have someone to discuss
 with.  Often, you will find that the discussion will help you come up with an
 idea that neither of you would have figured on your own.
 
-To prepare:
+### To prepare for seminar:
 
 1. Start early.  Do some reading (of the paper, of background materials), and
    plan what you want to present.
@@ -65,10 +68,9 @@ To prepare:
    presenting together.
 
 4. About two days before, send out a reminder of the topics that will be
-   covered.  The reminder may help attendees look over the material if they
-   have forgotten to do so.
+   covered, and if you expect participants to do anything beforehand.
 
-When leading the discussion:
+### When leading the discussion at seminar:
 
 1. Take note of those in attendance or assign this task to another CompTaG
    member (you will use your list to ask for feedback
@@ -81,8 +83,7 @@ When leading the discussion:
 
 3. Enjoy the benefit of your hard work and preparation!
 
-Continuous improvement is the best way to improve your communication skills.
-One way to improve is to solicit feedback.  After you present:
+### After seminar
 
 1. Post a reminder to those in attendance to ask for one-up one-down feedback.
 

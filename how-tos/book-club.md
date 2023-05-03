@@ -16,9 +16,12 @@ Book club has two goals:
 Read (or at the very least skim) the section that is under discussion.  Try to
 bring one or two questions or thoughts that can help improve the discussion.
 Trying to come up with a few questions will help you be more engaged with the
-material.
+material. Often, when reading through a book, it is necessary to draw out
+examples for yourself and to solve exercises that the authors provide. Attempt
+them.
 
-After the meeting, send the presenters one up / one down feedback.
+After the meeting, send the presenters one up / one down feedback.  Remember,
+this should be constructive criticism.
 
 ## For Presenters
 
@@ -26,12 +29,14 @@ Your goal is to lead a discussion, which is way more fun than just a lecture.
 You should try to go beyond the content.  What we sometimes call, "adding a
 plus-one".  A few ways to add a plus-one is:
 
+* Each section of the book has a "main point".  Work though a few examples that
+  use the "main point".  Examples (and sometimes non-examples) are what we can
+  sink our teeth into, and are helpful for our understanding.
 * Add in details of omitted or hand-waved steps. Often, the author points these
   out as an exercise to the reader.
-* Go to the primary sources to see full proofs, or perhaps more context. Is
-  there something helpful in the primary source that was not in the reading?
-* Each topic has a "main point".  Work though a few examples that use the "main
-  point"
+* It's always good to know historical context. So, go to the primary sources to
+  see full proofs, or perhaps more context. Is there something helpful in the
+  primary source that was not in the reading?
 
 Often, we pair you up for leading discussions.  The pairing is to allow you and
 your partner to work together to make a plan for leading the discussion.  Note
@@ -39,12 +44,13 @@ that it is a way easier to come up with a plan if you have someone to discuss
 with.  Often, you will find that the discussion will help you come up with an
 idea that neither of you would have figured on your own.
 
-To prepare:
+### To prepare for the book discussion:
 
 1. Start early.  Skim the section that you will cover and have a quick
    discussion to make sure you know the "main point" of the section.
 
-2. Brainstorm a few ways to add a plus one.
+2. Brainstorm a few ways to add a plus one.  What can you present to make it
+   worthwhile to come to book club, and not read it by oneself?
 
 3. Individually, go and explore details.
 
@@ -52,7 +58,7 @@ To prepare:
    covered.  The reminder may help attendees look over the material if they
    have forgotten to do so.
 
-When leading the discussion:
+### When leading the book discussion:
 
 1. Take note of those in attendance or assign this task to another CompTaG
    member (you will use your list to ask for feedback
@@ -61,9 +67,12 @@ When leading the discussion:
 2. Embrace the questions!  Some you are prepared for, but some you might not
    have thought about yet.  Feel free to take a second to think or to ask for a
    clarification.  If you still don't know the answer, either open it up for
-   discussion or ask to table that question until the end or slack.
+   discussion or ask to table that question until the end or start a thread
+   about it on slack.
 
 3. Enjoy the benefit of your hard work and preparation!
+
+### After the book discussion:
 
 Continuous improvement is the best way to improve your communication skills.
 One way to improve is to solicit feedback.  After you present:
@@ -71,7 +80,10 @@ One way to improve is to solicit feedback.  After you present:
 1. Post a reminder to those in attendance to ask for one-up one-down feedback.
 
 2. Thank each person that gives you feedback and follow up with them on any
-   questions that you have about how you can improve.
+   questions that you have about how you can improve.  And, if there was
+   anything particulalry helpful that you think everyone will beenfit from,
+   post in #technical or #book-club (or whatever channel seems most
+   appropriate).
 
 3. Follow up with any additional questions, todos, or content postings that may
    have arose during the discussion.
