@@ -30,10 +30,22 @@ times.
       have discussion various projects.  Feel free to join any conversations that seem
       interesting to you.
 
-3. GIT: if you are not yet familiar with git (or need a refresher), please take
-   the GIT Udacity course:
-    [Git Udacity Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-    or use the desktop learning app [Git-it](https://www.electronjs.org/apps/git-it).
+3. GIT: Most of our version control, and all of our code and papers, are in git
+   repos (hosted on GitHub).
+
+    * If you are not yet familiar with git (or need a refresher), please take
+      the [GIT coursere course](https://coursera.org/learn/version-control-with-git).
+    * If you haven't used markdown, take a look at this [markdown tutorial](https://github.com/msu/csci-432-fall2021)
+    * If you do not have one already, please set-up a global .gitignore file
+      (so that you don't commit compiled files).
+    * Before making an edit to one of our shared repos, be sure to checkout the
+      recommendations for good commit messages found in the [README for the
+      student-resources repo](https://github.com/msu/csci-432-fall2021)
+    * If a personal git repo is not yet set-up for you, please ping Brittany to
+      create one.  To the README, please add your contact information.
+    * In your personal repo, open the journal and update it for this week.  You
+      will use this journal to keep a log of what you are working on each week.
+      (If you would prefer to break it up by day, feel free!)
 
 4. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) You will
    need to complete Collaborative Institutional Training Initiative (CITI)
@@ -48,8 +60,13 @@ times.
       Twitter data, GPS trajectories), you will additionally need to complete
       Human Subjects Research -  Social and Behavioral Research. 
 
-4. Videos: To get started working in CompTaG research, please see the Introductory Readings
-   and Videos for Topics sections of
+4. Brief Intro to CompTaG: To get started working in CompTaG research, please
+   complete the self-guided tutorial [Topology for Data
+   Science](https://comptag.github.io/t4ds/).  Add your final R file to your git
+   repo under a folder for "onboarding". Ping Brittany once this is complete.
+
+5. Videos: Please complete the "Introductory Readings
+   and Videos for Topics" sections of
    [README](https://github.com/compTAG/student-resources#introductory-readings-for-topics)
    page.  For a crash course on some specific topics, watch these videos:
 
@@ -65,11 +82,11 @@ times.
       taking a coursera course, such as [PY4E](https://www.py4e.com/)
     * Compute persistent homology of a triangle using [Dionysus](https://www.mrzv.org/software/dionysus/)
     * Compute a Delaunay triangulation in  [CGAL](https://www.cgal.org/), and
-     output the triangulation data structure.
+      output the triangulation data structure.
     * Learn how to use the R TDA Package.
-    * Complete the Hyalite training. Hyalite is the research computing cluster
-      on campus. To schedule a training, please email Research Cyberinfrastructure
-      at hyalite-support@montana.edu and copy Brittany on that email.
+    * Complete the HPC training. [Tempest](https://www.montana.edu/uit/rci/tempest/)
+      is the MSU HPC research computing cluster.  Please see the website for the
+      current instructions on how to complete training and gain access.
 
 6. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
     
