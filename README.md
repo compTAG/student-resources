@@ -63,6 +63,20 @@ a template in the poster folder.
   paper](http://pub.ist.ac.at/~edels/Papers/2012-P-11-PHTheoryPractice.pdf) as
   well.
 
+## File Naming ##
+
+When naming files (and directories), be sure to follow common practices.
+[Google](https://developers.google.com/style/filenames) has nice documentation
+that explains how to properly name files.  Some things to consider:
+
+- Do not use spaces in filenames.
+- Make filenames informative, yet concise.
+- Use dashes between words in long filenames.
+- Each repo should be self-consistent.
+
+Following these guidelines makes it easy for you and your collaborators to find
+what you need!
+
 ## Introductory Readings for Topics ##
 
 ### Persistent Homology
