@@ -29,6 +29,7 @@ For more on how to write good commit messages, see blogs from:
 
 Academic writing is mastered in one way: practice and learn from your mistakes.  The following resources we find helpful:
 
+- [Shewchuk's 3 Sins](https://www.cs.cmu.edu/~jrs/sins.html)
 - [Ott's 10 Tips](http://www.ms.uky.edu/~kott/proof_help.pdf)
 - [Communicating Statistical Results](https://www.math.ttu.edu/~atrindad/stat5302-5303/Materials/Hoeting-Givens.pdf):
   Written for statisticians, but applicable for all scientific articles.
