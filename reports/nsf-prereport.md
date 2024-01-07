@@ -2,11 +2,13 @@
 
 * Reporting Period: TODO 
 
-When filling out the below form, please report all activities that fall within
-the range specified above.  If you are unsure if something is relevant, talk
-with the PIs or leave it in with a note.  We will make changes to the
-information you provide if necessary.  Information you need to fill out is
-always in a bulleted list (starting with a *).
+When filling out the below form, please report all research projects relevant to
+the grants that fund you and all training activities (workshops, conferences,
+etc) that fall within the range specified above, even if not directly paid for
+from a grant.  If you are unsure if something is relevant, talk with the PIs or
+leave it in with a note.  We will make changes to the information you provide as
+necessary.  Information you need to fill out is always in a bulleted list
+(starting with a *).
 
 ## Your Information:
 
@@ -16,11 +18,19 @@ always in a bulleted list (starting with a *).
 * Funding support (list all, including GTAships and travel support):
 * International Travel? TODO (if yes, which countries and how long (number of days) in each country?)
 
+## Products
+
+List all products created, in progress, revised, or published during this reporting period.
+Copy/paste the format from the best choice in [product-formatting.md](https://github.com/compTAG/student-resources/tree/master/reports/product-formatting.md)
+
+TODO: list published items, submitted items, as well as works in progress
+
 ## Research Presentations (internal and external)
 
 * Title: TODO
 * Abstract: TODO
 * Type: TODO:poster/oral/other
+* Related research prodcut: TODO: name product above, if relevant
 * Event: TODO 
 
 ## Outreach Presentations
@@ -28,28 +38,22 @@ always in a bulleted list (starting with a *).
 * When: TODO
 * Audience: TODO
 * What you did: TODO
+* Related research prodcut: TODO: name product above, if relevant
 * If applicable, summary of data collected (quotes, etc): TODO
-
-## Products
-
-List all products created, revised, or published during this reporting period.
-Copy/paste the format from the best choice in [product-formatting.md](https://github.com/compTAG/student-resources/tree/master/reports/product-formatting.md)
-
-TODO: list published items, submitted items, as well as works in progress
-
 
 ## Research Activiites / Results
 
 Try to break up what you've worked on over this reporting period into a list of
 specific projects.  For each project, copy/paste the bulleted list below.
 
-+ Project: TODO
++ Project: TODO: brief name
 * Accomplishments: TODO: describe the accomplishments that you have made
   during this reporting period.
 * Publications: TODO-reference from list above.
 * Presentations: TODO-reference from list above.
 * Next steps: TODO: describe the next steps (if any)
-* Impact: TODO: describe the impact of this project
+* Impact: TODO: describe the impact of this project to the broader research
+  community
 * Your Role: TODO
 + Collaborators: TODO: list collaborators on this research:
 
