@@ -14,12 +14,7 @@ times.
 
 ## Onboarding Tasks
 
-1. Faculty Court 23. Our main meeting location isFaculty Court #23 (FC23).
-   Graduate students can obtain a key by contacting Brittany.
-   Snacks and sodas are available on an honor system cash payment in the
-   kitchen.
-
-2. [Slack](https://tda-at-msu.slack.com/home): Most of the
+1. [Slack](https://tda-at-msu.slack.com/home): Most of the
    communication between team members occurs on Slack, which is a team
    collaboration software. Both web and mobile versions are available, and we
    encourage that you install Slack on your smartphone if possible. To be added
@@ -30,7 +25,7 @@ times.
       have discussion various projects.  Feel free to join any conversations that seem
       interesting to you.
 
-3. GIT: Most of our version control, and all of our code and papers, are in git
+*. GIT: Most of our version control, and all of our code and papers, are in git
    repos (hosted on GitHub).
 
     * If you are not yet familiar with git (or need a refresher), please take
@@ -47,7 +42,7 @@ times.
       will use this journal to keep a log of what you are working on each week.
       (If you would prefer to break it up by day, feel free!)
 
-4. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) You will
+*. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) You will
    need to complete Collaborative Institutional Training Initiative (CITI)
    training.  Please complete these trainings, then  post a message on Slack to
    Brittany and David to let them know the dates that you have completed these
@@ -60,12 +55,12 @@ times.
       Twitter data, GPS trajectories), you will additionally need to complete
       Human Subjects Research -  Social and Behavioral Research. 
 
-4. Brief Intro to CompTaG: To get started working in CompTaG research, please
+*. Brief Intro to CompTaG: To get started working in CompTaG research, please
    complete the self-guided tutorial [Topology for Data
    Science](https://comptag.github.io/t4ds/).  Add your final R file to your git
    repo under a folder for "onboarding". Ping Brittany once this is complete.
 
-5. Videos: Please complete the "Introductory Readings
+*. Videos: Please complete the "Introductory Readings
    and Videos for Topics" sections of
    [README](https://github.com/compTAG/student-resources#introductory-readings-for-topics)
    page.  For a crash course on some specific topics, watch these videos:
@@ -75,7 +70,7 @@ times.
     * Topological Data Analysis: https://www.youtube.com/watch?v=XOZN3XZdoO0
     * Computational Geometry: https://www.youtube.com/watch?v=LuTHBkyLJ1k
 
-5. Code: Papers (even theoretical ones) typically have an experimental section,
+*. Code: Papers (even theoretical ones) typically have an experimental section,
    which means that you should be comfortable running some code!  To get started, complete the following tasks:
 
     * If you don't have a strong background in CS / programming, we recommend
@@ -88,7 +83,7 @@ times.
       is the MSU HPC research computing cluster.  Please see the website for the
       current instructions on how to complete training and gain access.
 
-6. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
+*. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
     
     * [Searching in the space of persistence diagrams](https://arxiv.org/abs/1812.11257)
     * [PHT-based reconstruction](https://arxiv.org/abs/1912.12759)
@@ -96,7 +91,7 @@ times.
     * [On the Bootstrap for Persistence Diagrams and Landscapes (by Brittany and collabs)](https://arxiv.org/abs/1311.0376)
     * [Parallel Geometric Algorithms for Multi-core Computers (by Dave and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772110000362)
 
-7. Other Resources
+*. Other Resources
 
     * [SP Folder](https://montanaedu-my.sharepoint.com/:f:/r/personal/n12v755_msu_montana_edu/Documents/COMPTAG?csf=1&web=1&e=eEzXcy):
         this box folder contains miscelaneous files, such as sample USP or GRFP
