@@ -48,12 +48,17 @@ times.
    Brittany and David to let them know the dates that you have completed these
    modules. This should be done within 30 days of joining this team.
    Specifically, you will need to complete:
-    - All students in CompTaG should complete: a 
+    - All students in the CompTaG research group should complete: a 
       Responsible Conduct of Research (RCR) module. Once complete, please ping
       Brittany on slack, and upload your certificate to the [CompTaG SP Folder](https://montanaedu-my.sharepoint.com/:f:/r/personal/n12v755_msu_montana_edu/Documents/COMPTAG/granting/RCR?csf=1&web=1&e=DIOAiu).
-    - If you help with outreach events and/or use human-subject data (e.g.,
+    - Students who are completing this as part of getting oriented with a class
+      (namely, CompGeom or CompTOp) and will not be doing research can instead
+      complete one of the "Student / Class Project" modules for human subjects.
+      By doing this, you will have access to more data sets for your course
+      project.
+   - If you help with outreach events and/or use human-subject data (e.g.,
       Twitter data, GPS trajectories), you will additionally need to complete
-      Human Subjects Research -  Social and Behavioral Research. 
+      Human Subjects Research - Social and Behavioral Research. 
 
 *. Brief Intro to CompTaG: To get started working in CompTaG research, please
    complete the self-guided tutorial [Topology for Data
@@ -82,6 +87,23 @@ times.
     * Complete the HPC training. [Tempest](https://www.montana.edu/uit/rci/tempest/)
       is the MSU HPC research computing cluster.  Please see the website for the
       current instructions on how to complete training and gain access.
+
+*. Join the Broader Community: The following listservs are how announcements are
+   shared with the broader research community. I encourage you to join them all!
+
+    * AATRN: hosts regular webinars on Applied Topology.
+      [join listserv](https://groups.google.com/g/aatrn?pli=1)
+    * AlgTop: a listserv that began as an email discussion. Formerly, this was
+      hosted through Lehigh.
+      [website](https://lists.illinois.edu/lists/info/algtop-l)
+    * CompGeom Announce: announcements for the Computational Geometry community,
+      hosted by INRIA.
+      [website](https://sympa.inria.fr/sympa/info/compgeom-announce)
+    * Geometry: a listserv hosted by UTK.
+      [website](https://sympa.inria.fr/sympa/info/compgeom-announce)
+    * WinCompTop: a Google listserv that started as a listserv to connect women
+      in the community now serves as a general listserv for the Computational
+      Topology community. To join, send a blank email to WinCompTop+subscribe@googlegroups.com.
 
 *. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
     
