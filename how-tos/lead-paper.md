@@ -73,6 +73,10 @@ the things that they should keep in mind:
   tag should have the conference acronym and year, as well as the word
   'submission' so it can be differentiated from revisions and camera-ready
   versions.
+    ```
+    > git tag - a tagname -m "Short description"
+    > git push --tags
+    ```
 - If the comments were hidden, be sure to add them back in and review them.
 - If any lingering tasks remain that we know that we want to update between
   submission and camera-ready version, be sure that someone is assigned those
