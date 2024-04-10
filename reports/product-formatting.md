@@ -15,7 +15,7 @@
     * Ack Fed Support (yes/no): TODO
     * Peer Reviewed (yes/no): TODO
 2. Book Chapter / Juried Conf. or Journal Paper
-    * Status: TODO
+    * Status: (Published, Accepted, Awaiting Publication, Submitted, Under Review, Other)
     * Ch. Title: TODO
     * First Page Number: TODO
     * Author(s): TODO
@@ -28,7 +28,7 @@
     * Ack Fed Support (yes/no): TODO
     * Peer Reviewed (yes/no): TODO
 3. Other Conference Presentation
-    * Status: TODO
+    * Status: (Published, Accepted, Awaiting Publication, Submitted, Under Review, Other)
     * Title: TODO
     * Conference: TODO
     * Location: TODO
