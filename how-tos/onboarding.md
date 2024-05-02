@@ -23,10 +23,8 @@ times.
     * Click on the word `Channels` and take a look through the many channels we
       have discussion various projects.  Feel free to join any conversations that seem
       interesting to you.
-
 *. GIT: Most of our version control, and all of our code and papers, are in git
    repos (hosted on GitHub).
-
     * If you are not yet familiar with git (or need a refresher), please take
       the [GIT coursere course](https://coursera.org/learn/version-control-with-git).
     * If you haven't used markdown, take a look at this [markdown tutorial](https://github.com/msu/csci-432-fall2021)
@@ -42,20 +40,21 @@ times.
       (If you would prefer to break it up by day, feel free!)
 
 *. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) You will
-   need to complete Collaborative Institutional Training Initiative (CITI)
-   training.  Please complete these trainings, then  post a message on Slack to
-   Brittany and David to let them know the dates that you have completed these
-   modules. This should be done within 30 days of joining this team.
-   Specifically, you will need to complete:
-    - All students in the CompTaG research group should complete: a 
-      Responsible Conduct of Research (RCR) module. Once complete, please ping
-      Brittany on slack, and upload your certificate to the [CompTaG SP Folder](https://montanaedu-my.sharepoint.com/:f:/r/personal/n12v755_msu_montana_edu/Documents/COMPTAG/granting/RCR?csf=1&web=1&e=DIOAiu).
-    - Students who are completing this as part of getting oriented with a class
+    need to complete Collaborative Institutional Training Initiative (CITI)
+    training.  Please complete these trainings, then  post a message on Slack to
+    Brittany and David to let them know the dates that you have completed these
+    modules. This should be done within 30 days of joining this team.
+    Specifically, you will need to complete:
+    * All students in the CompTaG research group should complete: a Responsible
+      Conduct of Research (RCR) module. Once complete, please ping Brittany on
+      slack, and upload your certificate to the [CompTaG SP
+      Folder](https://montanaedu-my.sharepoint.com/:f:/r/personal/n12v755_msu_montana_edu/Documents/COMPTAG/granting/RCR?csf=1&web=1&e=DIOAiu).
+    * Students who are completing this as part of getting oriented with a class
       (namely, CompGeom or CompTOp) and will not be doing research can instead
       complete one of the "Student / Class Project" modules for human subjects.
       By doing this, you will have access to more data sets for your course
       project.
-   - If you help with outreach events and/or use human-subject data (e.g.,
+    * If you help with outreach events and/or use human-subject data (e.g.,
       Twitter data, GPS trajectories), you will additionally need to complete
       Human Subjects Research - Social and Behavioral Research. 
 
