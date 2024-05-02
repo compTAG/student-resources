@@ -19,7 +19,6 @@ times.
    collaboration software. Both web and mobile versions are available, and we
    encourage that you install Slack on your smartphone if possible. To be added
    to our Slack group, please ask Brittany for the invitation link.
-
     * Post a message to #general to introduce yourself to the group!
     * Click on the word `Channels` and take a look through the many channels we
       have discussion various projects.  Feel free to join any conversations that seem
