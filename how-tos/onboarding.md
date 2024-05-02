@@ -23,7 +23,7 @@ times.
     * Click on the word `Channels` and take a look through the many channels we
       have discussion various projects.  Feel free to join any conversations that seem
       interesting to you.
-*. GIT: Most of our version control, and all of our code and papers, are in git
+2. GIT: Most of our version control, and all of our code and papers, are in git
    repos (hosted on GitHub).
     * If you are not yet familiar with git (or need a refresher), please take
       the [GIT coursere course](https://coursera.org/learn/version-control-with-git).
@@ -39,7 +39,7 @@ times.
       will use this journal to keep a log of what you are working on each week.
       (If you would prefer to break it up by day, feel free!)
 
-*. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) You will
+3. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) You will
     need to complete Collaborative Institutional Training Initiative (CITI)
     training.  Please complete these trainings, then  post a message on Slack to
     Brittany and David to let them know the dates that you have completed these
