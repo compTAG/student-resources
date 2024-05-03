@@ -23,6 +23,7 @@ times.
     * Click on the word `Channels` and take a look through the many channels we
       have discussion various projects.  Feel free to join any conversations that seem
       interesting to you.
+
 2. GIT: Most of our version control, and all of our code and papers, are in git
    repos (hosted on GitHub).
     * If you are not yet familiar with git (or need a refresher), please take
@@ -58,24 +59,22 @@ times.
       Twitter data, GPS trajectories), you will additionally need to complete
       Human Subjects Research - Social and Behavioral Research. 
 
-*. Brief Intro to CompTaG: To get started working in CompTaG research, please
+4. Brief Intro to CompTaG: To get started working in CompTaG research, please
    complete the self-guided tutorial [Topology for Data
    Science](https://comptag.github.io/t4ds/).  Add your final R file to your git
    repo under a folder for "onboarding". Ping Brittany once this is complete.
 
-*. Videos: Please complete the "Introductory Readings
+5. Videos: Please complete the "Introductory Readings
    and Videos for Topics" sections of
    [README](https://github.com/compTAG/student-resources#introductory-readings-for-topics)
    page.  For a crash course on some specific topics, watch these videos:
-
     * Group theory: https://www.youtube.com/watch?v=O4plQ5ppg9c&list=PLAvgI3H-gclb_Xy7eTIXkkKt3KlV6gk9_
     * Persistent Homology: https://www.youtube.com/watch?v=h0bnG1Wavag&amp;t=16s
     * Topological Data Analysis: https://www.youtube.com/watch?v=XOZN3XZdoO0
     * Computational Geometry: https://www.youtube.com/watch?v=LuTHBkyLJ1k
 
-*. Code: Papers (even theoretical ones) typically have an experimental section,
+6. Code: Papers (even theoretical ones) typically have an experimental section,
    which means that you should be comfortable running some code!  To get started, complete the following tasks:
-
     * If you don't have a strong background in CS / programming, we recommend
       taking a coursera course, such as [PY4E](https://www.py4e.com/)
     * Compute persistent homology of a triangle using [Dionysus](https://www.mrzv.org/software/dionysus/)
@@ -86,9 +85,8 @@ times.
       is the MSU HPC research computing cluster.  Please see the website for the
       current instructions on how to complete training and gain access.
 
-*. Join the Broader Community: The following listservs are how announcements are
+7. Join the Broader Community: The following listservs are how announcements are
    shared with the broader research community. I encourage you to join them all!
-
     * AATRN: hosts regular webinars on Applied Topology.
       [join listserv](https://groups.google.com/g/aatrn?pli=1)
     * AlgTop: a listserv that began as an email discussion. Formerly, this was
@@ -103,16 +101,14 @@ times.
       in the community now serves as a general listserv for the Computational
       Topology community. To join, send a blank email to WinCompTop+subscribe@googlegroups.com.
 
-*. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
-    
+8. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
     * [Searching in the space of persistence diagrams](https://arxiv.org/abs/1812.11257)
     * [PHT-based reconstruction](https://arxiv.org/abs/1912.12759)
     * [Fast randomized point location without preprocessing in two-and three-dimensional Delaunay triangulations (by Binhai and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772198000352)
     * [On the Bootstrap for Persistence Diagrams and Landscapes (by Brittany and collabs)](https://arxiv.org/abs/1311.0376)
     * [Parallel Geometric Algorithms for Multi-core Computers (by Dave and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772110000362)
 
-*. Other Resources
-
+9. Other Resources
     * [SP Folder](https://montanaedu-my.sharepoint.com/:f:/r/personal/n12v755_msu_montana_edu/Documents/COMPTAG?csf=1&web=1&e=eEzXcy):
         this box folder contains miscelaneous files, such as sample USP or GRFP
         proposals.  If you need access, just ask Brittany.
