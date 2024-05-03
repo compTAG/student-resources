@@ -16,24 +16,33 @@ times.
 
 1. [Slack](https://tda-at-msu.slack.com/home): Most of the
    communication between team members occurs on Slack, which is a team
-   collaboration software. Both web and mobile versions are available, and we
-   encourage that you install Slack on your smartphone if possible. To be added
-   to our Slack group, please ask Brittany for the invitation link.
+   collaboration software. Both web and mobile versions are available. To be added
+   to our Slack group, please ask Brittany for the invitation link. Once you
+   have an account set-up, complete the following tasks:
     * Post a message to #general to introduce yourself to the group!
     * Click on the word `Channels` and take a look through the many channels we
       have discussion various projects.  Feel free to join any conversations that seem
       interesting to you.
 
 2. GIT: Most of our version control, and all of our code and papers, are in git
-   repos (hosted on GitHub).
+   repos (hosted on GitHub). Complete the following tasks:
     * If you are not yet familiar with git (or need a refresher), please take
-      the [GIT coursere course](https://coursera.org/learn/version-control-with-git).
-    * If you haven't used markdown, take a look at this [markdown tutorial](https://github.com/msu/csci-432-fall2021)
+      the [coursera GIT course](https://coursera.org/learn/version-control-with-git).
+    * [Setup SSH keys](https://www.strongdm.com/blog/ssh-passwordless-login),
+      and add the public key to your GitHub profile.
+    * We use markdown files to help organize repos, and for documents such as
+      this one. If you haven't used markdown, take a look at
+      this [markdown tutorial](https://github.com/msu/csci-432-fall2021).
     * If you do not have one already, please set-up a global .gitignore file
-      (so that you don't commit compiled files).
+      (so that you don't commit compiled files). Post in #technical if you need
+      help figuring out what to include in that file.
     * Before making an edit to one of our shared repos, be sure to checkout the
       recommendations for good commit messages found in the [README for the
       student-resources repo](https://github.com/msu/csci-432-fall2021)
+    * Brittany should have added you to the comptag GitHub group (if not, please
+      ping her!).  As a member of the group, you should have read access to
+      several repos.  Take a look at the repos to see what folks are actively
+      working on in the group.
     * If a personal git repo is not yet set-up for you, please ping Brittany to
       create one.  To the README, please add your contact information.
     * In your personal repo, open the journal and update it for this week.  You
@@ -42,22 +51,22 @@ times.
 
 3. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) You will
     need to complete Collaborative Institutional Training Initiative (CITI)
-    training.  Please complete these trainings, then  post a message on Slack to
-    Brittany and David to let them know the dates that you have completed these
-    modules. This should be done within 30 days of joining this team.
-    Specifically, you will need to complete:
-    * All students in the CompTaG research group should complete: a Responsible
-      Conduct of Research (RCR) module. Once complete, please ping Brittany on
-      slack, and upload your certificate to the [CompTaG SP
-      Folder](https://montanaedu-my.sharepoint.com/:f:/r/personal/n12v755_msu_montana_edu/Documents/COMPTAG/granting/RCR?csf=1&web=1&e=DIOAiu).
+    training.  This should be done within 30 days of joining this team.
+    Specifically, you will need to do the following:
     * Students who are completing this as part of getting oriented with a class
-      (namely, CompGeom or CompTOp) and will not be doing research can instead
+      (namely, CompGeom or CompTop) and will not be doing research can instead
       complete one of the "Student / Class Project" modules for human subjects.
       By doing this, you will have access to more data sets for your course
       project.
+    * All students in the CompTaG research group should complete: a Responsible
+      Conduct of Research (RCR) module. Once complete, please ping Brittany on
+      slack, and 
     * If you help with outreach events and/or use human-subject data (e.g.,
-      Twitter data, GPS trajectories), you will additionally need to complete
-      Human Subjects Research - Social and Behavioral Research. 
+      Twitter data, GPS trajectories, histology slides), you will additionally
+      need to complete Human Subjects Research - Social and Behavioral Research. 
+    * Upload your RCR certificate (other certificates do not need to be uploaded) to 
+      the [CompTaG SP Folder](https://montanaedu-my.sharepoint.com/:f:/g/personal/n12v755_msu_montana_edu/EtEoykDdH7hDowZn1dTmny4Bc8LEc3CxPbjQxa3z4i4qvg)
+    * Send Brittany a DM on Slack to confirm you have completed this.
 
 4. Brief Intro to CompTaG: To get started working in CompTaG research, please
    complete the self-guided tutorial [Topology for Data
