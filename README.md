@@ -19,6 +19,8 @@ For resources on git, take a look at:
 
 When working in a group, commit messages are very important.  Your collaborators
 (and even your future self) will be very thankful for well crafted messages.
+Typically, the messages will start with a verb (with first letter capitalized)
+in the present tense and will finish the sentence "Pulling this commit will ..."
 For more on how to write good commit messages, see blogs from:
 
 - [Erlang project](https://github.com/erlang/otp/wiki/writing-good-commit-messages)
