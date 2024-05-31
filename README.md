@@ -11,7 +11,20 @@ To clone this repo:
 $ git clone https://<username>@bitbucket.org/tda-at-msu/student-templates.git
 ```
 
-For resources on git, take a look at:
+When collaborating, we usually commit directly to master and do not go through
+issuing pull requests.  As such, the workflow is typically the following:
+```
+$ git pull [[to make sure you're up-to-date]]
+$ [[edit]]
+$ git status [[make sure the files edited match what you expect!]]
+$ git add [[list files to stage]]
+$ git commit -m "[[good commit message here, see resources below]]
+$ git pull [[just in case someone else snuck in]]
+$ git push [[now, you're done!]]
+```
+Of course, the words in the brackets are comments and not part of the commands.
+
+For additional resources on git, take a look at:
 
 - [Git Udacity
   Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
