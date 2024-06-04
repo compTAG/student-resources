@@ -96,6 +96,7 @@ what you need!
 ## Introductory Readings for Topics ##
 
 ### Persistent Homology
+- [Dey/Wang Book](http://yusu.belkin-wang.org/CTDAbook-DeyWang.pdf)
 - [Edelsbrunner/Harer Book](https://bookstore.ams.org/mbk-69/): Covers
   persistent homology, comparison of diagrams, and more.
 - [Persistent Homology: a Survey - HE,
