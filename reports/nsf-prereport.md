@@ -5,10 +5,12 @@
 When filling out the below form, please report all research projects relevant to
 the grants that fund you and all training activities (workshops, conferences,
 etc) that fall within the range specified above, even if not directly paid for
-from a grant.  If you are unsure if something is relevant, talk with the PIs or
-leave it in with a note.  We will make changes to the information you provide as
-necessary.  Information you need to fill out is always in a bulleted list
-(starting with a *).
+from a grant.  Note that any research training you receive from the PIs of
+federally-funded grants may be reported under grants, even if you are not
+directly paid by them.  So, if you are unsure if something is relevant, talk
+with the PIs or leave it in with a note.  We will make changes to the
+information you provide as necessary.  Information you need to fill out is
+always in a bulleted list (starting with a *).
 
 ## Your Information:
 
@@ -16,7 +18,7 @@ necessary.  Information you need to fill out is always in a bulleted list
 * Last name: TODO
 * e-mail: TODO
 * Funding support (list all, including GTAships and travel support):
-* International Travel? TODO (if yes, which countries and how long (number of days) in each country?)
+* International Travel during this reporting period? TODO (if yes, which countries and how long (number of days) in each country?)
 
 ## Products
 
@@ -30,7 +32,7 @@ TODO: list published items, submitted items, as well as works in progress
 * Title: TODO
 * Abstract: TODO
 * Type: TODO:poster/oral/other
-* Related research prodcut: TODO: name product above, if relevant
+* Related research product: TODO: name product above, if relevant
 * Event: TODO 
 
 ## Outreach Presentations
