@@ -78,6 +78,7 @@ times.
    [README](https://github.com/compTAG/student-resources#introductory-readings-for-topics)
    page.  For a crash course on some specific topics, watch these videos:
     * Group theory: https://www.youtube.com/watch?v=O4plQ5ppg9c&list=PLAvgI3H-gclb_Xy7eTIXkkKt3KlV6gk9_
+    * [Linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=ouN-Y6tBD097576I)
     * Persistent Homology: https://www.youtube.com/watch?v=h0bnG1Wavag&amp;t=16s
     * Topological Data Analysis: https://www.youtube.com/watch?v=XOZN3XZdoO0
     * Computational Geometry: https://www.youtube.com/watch?v=LuTHBkyLJ1k
