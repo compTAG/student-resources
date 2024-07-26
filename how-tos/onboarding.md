@@ -95,7 +95,18 @@ times.
       is the MSU HPC research computing cluster.  Please see the website for the
       current instructions on how to complete training and gain access.
 
-7. Join the Broader Community: The following listservs are how announcements are
+7. Team Tools:
+    * Checkout the Poster and Figures section of
+      the [main README for this repo](https://github.com/compTAG/student-resources/tree/master) and
+      complete the Soup Can tutorial linked from there. After that, create your
+      own figure in Inkscape and post it to #random in slack.
+    * We write-up all of our results in LaTex.  Choose one of the team papers
+      (listed below) or a paper published in SoCG (any year) and write a brief
+      summary of the problem that the paper is solving (not the solution, just
+      the problem!) in LaTex.  Add this to your personal git repo and ping
+      Brittany for feedback (or bring it to a #writing-workshop).
+
+8. Join the Broader Community: The following listservs are how announcements are
    shared with the broader research community. I encourage you to join them all!
     * AATRN: hosts regular webinars on Applied Topology.
       [join listserv](https://groups.google.com/g/aatrn?pli=1)
@@ -111,14 +122,14 @@ times.
       in the community now serves as a general listserv for the Computational
       Topology community. To join, send a blank email to WinCompTop+subscribe@googlegroups.com.
 
-8. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
+9. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
     * [Searching in the space of persistence diagrams](https://arxiv.org/abs/1812.11257)
     * [PHT-based reconstruction](https://arxiv.org/abs/1912.12759)
     * [Fast randomized point location without preprocessing in two-and three-dimensional Delaunay triangulations (by Binhai and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772198000352)
     * [On the Bootstrap for Persistence Diagrams and Landscapes (by Brittany and collabs)](https://arxiv.org/abs/1311.0376)
     * [Parallel Geometric Algorithms for Multi-core Computers (by Dave and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772110000362)
 
-9. Other Resources
+10. Other Resources
     * [SP Folder](https://montanaedu-my.sharepoint.com/:f:/r/personal/n12v755_msu_montana_edu/Documents/COMPTAG?csf=1&web=1&e=eEzXcy):
         this box folder contains miscelaneous files, such as sample USP or GRFP
         proposals.  If you need access, just ask Brittany.
