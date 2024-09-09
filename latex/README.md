@@ -30,7 +30,10 @@ used within our group.
 * Use the following site to find the latex code of a symbol. Go to the site and draw the symbol in the given window. The website will output the latex codes for the symbol drawn.
 http://detexify.kirelabs.org/classify.html
 
-## LaTex Figures!
+## Specific Parts of Your Document 
 
-* The best source is to look at the LaTex wikibook page on:
+* Figures: The best source for figures is to look at the LaTex wikibook page on:
   [Floats, Figures, and Captions](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions) 
+* Tables: use booktabs
+    - [the booktabs package](https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/booktabs/booktabs.pdf)
+    - [a handly slide deck](https://people.inf.ethz.ch/markusp/teaching/guides/guide-tables.pdf)
