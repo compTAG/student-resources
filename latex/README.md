@@ -36,4 +36,4 @@ http://detexify.kirelabs.org/classify.html
   [Floats, Figures, and Captions](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions) 
 * Tables: use booktabs
     - [the booktabs package](https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/booktabs/booktabs.pdf)
-    - [a handly slide deck](https://people.inf.ethz.ch/markusp/teaching/guides/guide-tables.pdf)
+    - [a handy slide deck](https://people.inf.ethz.ch/markusp/teaching/guides/guide-tables.pdf)
