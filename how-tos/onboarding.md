@@ -49,7 +49,8 @@ times.
       will use this journal to keep a log of what you are working on each week.
       (If you would prefer to break it up by day, feel free!)
 
-3. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) You will
+3. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) for IRB.
+    You will
     need to complete Collaborative Institutional Training Initiative (CITI)
     training.  This should be done within 30 days of joining this team.
     Specifically, you will need to do the following:
@@ -61,12 +62,18 @@ times.
     * All students in the CompTaG research group should complete: a Responsible
       Conduct of Research (RCR) module. Once complete, please ping Brittany on
       slack, and 
-    * If you help with outreach events and/or use human-subject data (e.g.,
+    * In order to help with outreach events and/or use human-subject data (e.g.,
       Twitter data, GPS trajectories, histology slides), you will additionally
-      need to complete Human Subjects Research - Social and Behavioral Research. 
+      need to complete Human Subjects Research - Social and Behavioral Research.
+      Although you may or may not use this data in your research, it's good to
+      be prepared for it.
     * Upload your RCR certificate (other certificates do not need to be uploaded) to 
       the [CompTaG SP Folder](https://montanaedu-my.sharepoint.com/:f:/g/personal/n12v755_msu_montana_edu/EtEoykDdH7hDowZn1dTmny4Bc8LEc3CxPbjQxa3z4i4qvg)
-    * Send Brittany a DM on Slack to confirm you have completed this.
+    * Send Brittany a DM on Slack to confirm you have completed this, and she
+      will add you to the `CompTaG umbrella IRB', which once approved, means
+      that you can use de-identified human subject data in your experimental
+      investigations. Note that even if data is freely available online, it is
+      required to work under an IRB if it involves human subjects in some way. 
 
 4. Brief Intro to CompTaG: To get started working in CompTaG research, please
    complete the self-guided tutorial [Topology for Data
