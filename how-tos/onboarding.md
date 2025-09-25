@@ -102,16 +102,23 @@ times.
       is the MSU HPC research computing cluster.  Please see the website for the
       current instructions on how to complete training and gain access.
 
-7. Team Tools:
-    * Checkout the Poster and Figures section of
-      the [main README for this repo](https://github.com/compTAG/student-resources/tree/master) and
-      complete the Soup Can tutorial linked from there. After that, create your
-      own figure in Inkscape and post it to #random in slack.
-    * We write-up all of our results in LaTex.  Choose one of the team papers
-      (listed below) or a paper published in SoCG (any year) and write a brief
-      summary of the problem that the paper is solving (not the solution, just
-      the problem!) in LaTex.  Add this to your personal git repo and ping
-      Brittany for feedback (or bring it to a #writing-workshop).
+7. Inkscape: 
+   In general, you can use whatever vectorgraphic tool you want to create
+   figures.  But, for the purpose of this tutorial, we explore a CompTaG
+   favorite: Inkscape.  Essentially, it is the free version of Illustrator.
+   Checkout the Poster and Figures section of the
+   [main README for this repo](https://github.com/compTAG/student-resources/tree/master) 
+   and complete
+   the "Soup Can" tutorial linked from there. After that, create your own figure
+   in Inkscape and post it to #random in slack.  
+
+8: LaTex: We write-up all of our results in LaTex.  Choose one of the team papers
+   (listed below) or a paper published in SoCG (any year) and write a brief
+   summary of the problem that the paper is solving (not the solution, just
+   the problem!) in LaTex.  Add this to your personal git repo and ping
+   Brittany for feedback (or bring it to a #writing-workshop).  Be sure to use
+   best practices for writing/editing LaTex (see the `Miscellaneous Tips''
+   section of [How to Lead a Paper](https://github.com/compTAG/student-resources/blob/master/how-tos/lead-paper.md).
 
 8. Join the Broader Community: The following listservs are how announcements are
    shared with the broader research community. I encourage you to join them all!
