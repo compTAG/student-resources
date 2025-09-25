@@ -94,3 +94,16 @@ the things that they should keep in mind:
   should send reminders / set deadlines.
 - If the paper is not accepted, work with collaborators to identify the next
   venue as soon as possible.
+
+## Miscellaneous Tips for Writing
+
+* Configure your text editor!
+    - configure so that your tabs are replaced with spaces (see Brittany's vimrc
+      file if you're using vim!)
+    - know how to use spellcheck, and check it regularly
+* In Git, typically we use the following conventions:
+    - commit directly to the main branch
+    - commit early and often!
+    - practice good commit messages
+    - be sure your email and name are setup appropriately in your .gitconfig
+      file.
