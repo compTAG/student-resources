@@ -81,6 +81,8 @@ the things that they should keep in mind:
 - If any lingering tasks remain that we know that we want to update between
   submission and camera-ready version, be sure that someone is assigned those
   tasks.
+- Create or update the ArXiv submission, if desired.  See the how-to for that
+  [here](https://github.com/compTAG/student-resources/blob/master/how-tos/arxiv-submission.md).
 
 ## After Reviews Back
 
