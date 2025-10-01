@@ -98,7 +98,7 @@ the things that they should keep in mind:
 ## Miscellaneous Tips for Writing
 
 * Configure your text editor!
-    - configure so that your tabs are replaced with spaces (see Brittany's vimrc
+    - configure so that your tabs are replaced with four spaces (see Brittany's vimrc
       file if you're using vim!)
     - we like to keep lines of LaTex code under 80 characters. This is helpful
       for clean git logs.  Please configure your text editor to automatically do
