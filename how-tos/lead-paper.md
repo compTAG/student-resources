@@ -100,6 +100,9 @@ the things that they should keep in mind:
 * Configure your text editor!
     - configure so that your tabs are replaced with spaces (see Brittany's vimrc
       file if you're using vim!)
+    - we like to keep lines of LaTex code under 80 characters. This is helpful
+      for clean git logs.  Please configure your text editor to automatically do
+      this (unless you want to be hitting enter very frequently).
     - know how to use spellcheck, and check it regularly
 * In Git, typically we use the following conventions:
     - commit directly to the main branch
