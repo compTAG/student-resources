@@ -61,7 +61,7 @@ Academic writing is mastered in one way: practice and learn from your mistakes. 
   are a great way to give a visual summary of your papers that help readers
   digest the technical stuff.
 
-## Posters and Figures ##
+## Posters, Figures, and Tables ##
 
 Presenting posters at academic conferences is a great way to practice talking
 about your research.  We recommend using Inkscape to create posters, and provide
