@@ -27,7 +27,7 @@
     * Publication ID: TODO
     * Ack Fed Support (yes/no): TODO
     * Peer Reviewed (yes/no): TODO
-3. Other Conference Presentation
+3. Other Conference Presentation (including posters)
     * Status: (Published, Accepted, Awaiting Publication, Submitted, Under Review, Other)
     * Title: TODO
     * Conference: TODO
@@ -39,7 +39,7 @@
     * Author(s): TODO
     * Institution: TODO
     * Year: TODO
-5. Other PUblication:
+5. Other Publication (e.g., News articles):
     * Title: TODO
     * Author(s): TODO
     * Short Description: TODO
