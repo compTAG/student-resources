@@ -78,6 +78,8 @@ a template in the poster folder.
   want a concrete example, take a look at [this
   paper](http://pub.ist.ac.at/~edels/Papers/2012-P-11-PHTheoryPractice.pdf) as
   well.
+- [Table Formatting](https://medium.com/@virginiaracu15/applying-ux-principles-on-data-tables-89298fb1470)
+- [More Table Formatting](https://www.csescienceeditor.org/article/best-practices-in-table-design/)
 
 ## File Naming ##
 
