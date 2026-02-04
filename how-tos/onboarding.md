@@ -47,7 +47,12 @@ times.
       create one.  To the README, please add your contact information.
     * In your personal repo, open the journal and update it for this week.  You
       will use this journal to keep a log of what you are working on each week.
-      (If you would prefer to break it up by day, feel free!)
+      (If you would prefer to break it up by day, feel free!) This journal is
+      mostly for you, but also helpful for advising. Two general rules for it:
+        - On days we meet, please add a list of accomplishments to the meeting
+          day's agenda.
+        - Have the most recent day on top, so that's the firs thing I see when I
+          open the document.
 
 3. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) for IRB.
     You will
