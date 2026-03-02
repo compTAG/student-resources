@@ -8,7 +8,7 @@ Seminar has three goals:
 
 3. Practice presenting. You will give many presentations in your academic
    career.  It is best to get some practice when you can, and seminar is a safe
-   space to do so.  Please be respectful of preesnters and responsive to
+   space to do so.  Please be respectful of presenters and responsive to
    constructive criticism.
 
 ## For all seminar attendees
