@@ -13,7 +13,7 @@ used within our group.
 * templates/GHC: For submitting to the Grace hopper conference
 * templates/USP: For submitting applications to the Undergraduate Scholars
   Program.
-* write-up: For informal notes
+* write-up: For informal notes, including out standard macro style file!
 
 ## External Templates:
 
