@@ -31,9 +31,8 @@ following their rules!
 
 - Journal and conference requirements vary, so be sure to check if you are
   allowed to use AI images or not.
-- LLMs are faster at creating flyers for outreach events, and sketches as
-  placeholders for figures in papers (although hand drawn sketches are always
-  acceptable).
+- LLMs are faster at creating flyers for outreach events and sometimes
+  quick-sketches of figures in papers before time is spent to make the real
+  figure (hand drawn-sketches are always acceptable as placeholders too).
 - To avoid potential copyright issues, its recommended to use a hand drawn draft
   as input to the AI tool
-
