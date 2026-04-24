@@ -44,7 +44,8 @@ times.
       several repos.  Take a look at the repos to see what folks are actively
       working on in the group.
     * If a personal git repo is not yet set-up for you, please ping Brittany to
-      create one.  To the README, please add your contact information.
+      create one.  To the README, please add your contact information.  In this
+      repo, will be your research journal. Please try to keep that up-to-date!
     * In your personal repo, open the journal and update it for this week.  You
       will use this journal to keep a log of what you are working on each week.
       (If you would prefer to break it up by day, feel free!) This journal is
@@ -54,7 +55,17 @@ times.
         - Have the most recent day on top, so that's the firs thing I see when I
           open the document.
 
-3. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) for IRB.
+3. LaTex: We write-up all of our results in LaTex.  Choose one of the team papers
+   (listed below) or a paper published in SoCG (any year) and write a brief
+   summary of the problem that the paper is solving (not the solution, just
+   the problem!) in LaTex.  Add this to your personal git repo and ping
+   Brittany for feedback (or bring it to a #writing-workshop).  Be sure to use
+   best practices for writing/editing LaTex (see the `Miscellaneous Tips''
+   section of [How to Lead a Paper](https://github.com/compTAG/student-resources/blob/master/how-tos/lead-paper.md).
+
+
+
+4. [CITI Training](http://www.montana.edu/orc/training/citi/index.html) for IRB.
     You will
     need to complete Collaborative Institutional Training Initiative (CITI)
     training.  This should be done within 30 days of joining this team.
@@ -80,12 +91,12 @@ times.
       investigations. Note that even if data is freely available online, it is
       required to work under an IRB if it involves human subjects in some way. 
 
-4. Brief Intro to CompTaG: To get started working in CompTaG research, please
+5. Brief Intro to CompTaG: To get started working in CompTaG research, please
    complete the self-guided tutorial [Topology for Data
    Science](https://comptag.github.io/t4ds/).  Add your final R file to your git
    repo under a folder for "onboarding". Ping Brittany once this is complete.
 
-5. Videos: Please complete the "Introductory Readings
+6. Videos: Please complete the "Introductory Readings
    and Videos for Topics" sections of
    [README](https://github.com/compTAG/student-resources#introductory-readings-for-topics)
    page.  For a crash course on some specific topics, watch these videos:
@@ -95,7 +106,7 @@ times.
     * [Topological Data Analysis](https://www.youtube.com/watch?v=XOZN3XZdoO0)
     * [Computational Geometry](https://www.youtube.com/watch?v=LuTHBkyLJ1k)
 
-6. Code: Papers (even theoretical ones) typically have an experimental section,
+7. Code: Papers (even theoretical ones) typically have an experimental section,
    which means that you should be comfortable running some code!  To get started, complete the following tasks:
     * If you don't have a strong background in CS / programming, we recommend
       taking a coursera course, such as [PY4E](https://www.py4e.com/)
@@ -107,7 +118,7 @@ times.
       is the MSU HPC research computing cluster.  Please see the website for the
       current instructions on how to complete training and gain access.
 
-7. Inkscape: 
+8. Inkscape: 
    In general, you can use whatever vectorgraphic tool you want to create
    figures.  But, for the purpose of this tutorial, we explore a CompTaG
    favorite: Inkscape.  Essentially, it is the free version of Illustrator.
@@ -117,15 +128,7 @@ times.
    the "Soup Can" tutorial linked from there. After that, create your own figure
    in Inkscape and post it to #random in slack.  
 
-8: LaTex: We write-up all of our results in LaTex.  Choose one of the team papers
-   (listed below) or a paper published in SoCG (any year) and write a brief
-   summary of the problem that the paper is solving (not the solution, just
-   the problem!) in LaTex.  Add this to your personal git repo and ping
-   Brittany for feedback (or bring it to a #writing-workshop).  Be sure to use
-   best practices for writing/editing LaTex (see the `Miscellaneous Tips''
-   section of [How to Lead a Paper](https://github.com/compTAG/student-resources/blob/master/how-tos/lead-paper.md).
-
-8. Join the Broader Community: The following listservs are how announcements are
+9. Join the Broader Community: The following listservs are how announcements are
    shared with the broader research community. I encourage you to join them all!
     * AATRN: hosts regular webinars on Applied Topology.
       [join listserv](https://groups.google.com/g/aatrn?pli=1)
@@ -141,12 +144,16 @@ times.
       in the community now serves as a general listserv for the Computational
       Topology community. To join, send a blank email to WinCompTop+subscribe@googlegroups.com.
 
-9. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
-    * [Searching in the space of persistence diagrams](https://arxiv.org/abs/1812.11257)
-    * [PHT-based reconstruction](https://arxiv.org/abs/1912.12759)
-    * [Fast randomized point location without preprocessing in two-and three-dimensional Delaunay triangulations (by Binhai and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772198000352)
+10. Team Papers: Our team has authored several papers that we encourage you to read in order to learn more about our work.  Write a short summary of the _problem_ beling addressed in each of the following papers (and post it in your perosnal git repo).
+    * [Searching in the space of persistence diagrams](https://arxiv.org/abs/1812.11257).
+    * [PHT-based reconstruction](https://arxiv.org/abs/1912.12759).
+    * [Fast randomized point location without preprocessing in two-and three-dimensional Delaunay triangulations (by Binhai and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772198000352).
     * [On the Bootstrap for Persistence Diagrams and Landscapes (by Brittany and collabs)](https://arxiv.org/abs/1311.0376)
-    * [Parallel Geometric Algorithms for Multi-core Computers (by Dave and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772110000362)
+    * [Parallel Geometric Algorithms for Multi-core Computers (by Dave and collabs)](https://www.sciencedirect.com/science/article/pii/S0925772110000362).
+    * [Shortest Paths in Linearly Interpolated Graphs](https://arxiv.org/html/2604.08892v1), YRF 2026.
+    * [Ordering Descriptors](https://arxiv.org/abs/2402.13632), CCCG 2024.
+    * [If you must choose among your children, pick the right one](https://arxiv.org/abs/2103.13882),
+      CCCG 2020. Discrete Morse theory.
 
 10. Other Resources
     * [SP Folder](https://montanaedu-my.sharepoint.com/:f:/r/personal/n12v755_msu_montana_edu/Documents/COMPTAG?csf=1&web=1&e=eEzXcy):
