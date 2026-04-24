@@ -82,7 +82,7 @@ the things that they should keep in mind:
   submission and camera-ready version, be sure that someone is assigned those
   tasks.
 - Create or update the ArXiv submission, if desired.  See the how-to for that
-  [here](https://github.com/compTAG/student-resources/blob/master/how-tos/arxiv-submission.md).
+  [here](https://github.com/compTAG/student-resources/blob/master/how-tos/writing/arxiv-submission.md).
 
 ## After Reviews Back
 
@@ -112,3 +112,12 @@ the things that they should keep in mind:
     - practice good commit messages
     - be sure your email and name are setup appropriately in your .gitconfig
       file.
+* For tips on making figures, including writing good captions, see the main
+  [README](https://github.com/compTAG/student-resources/blob/master/README.md).
+* See Jonathan Shewchuk's post on the [Three Sins of Authors](https://www.cs.cmu.edu/~jrs/sins.html)
+* For results sections, think about how to interpret the findings. We don't want
+  to see "x increased with time, as expected." Help the reader understand why
+  that matters: in what way did x increase? linearly? exponentially? how does
+  this compare to other approaches? what does this mean for future work?  For
+  some good examples of experimental sections, see
+    - [Keeping it Sparse](https://d-nb.info/1340721090/34)
