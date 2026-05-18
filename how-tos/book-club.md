@@ -54,11 +54,13 @@ idea that neither of you would have figured on your own.
 
 3. Individually, go and explore details.
 
-4. About two days before, send out a reminder of the topics that will be
+4. Regroup and discuss / plan.
+
+5. About two days before, send out a reminder of the topics that will be
    covered.  The reminder may help attendees look over the material if they
    have forgotten to do so.
 
-### When leading the book discussion:
+### During the book discussion:
 
 1. Take note of those in attendance or assign this task to another CompTaG
    member (you will use your list to ask for feedback
